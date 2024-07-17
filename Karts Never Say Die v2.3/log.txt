@@ -1,0 +1,320 @@
+Compiled for SDL version: 2.28.5
+Linked with SDL version: 2.28.5
+Setting up SRB2Kart...
+
+
+Sonic Robo Blast 2 Kart
+Copyright (C) 1998-2022 by Kart Krew & STJr
+
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This is free software, and you are welcome to redistribute it
+and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+See the 'LICENSE.txt' file for details.
+
+Sonic the Hedgehog and related characters are trademarks of SEGA.
+We do not claim ownership of SEGA's intellectual property used
+in this program.
+
+Looking for WADs in: SRB2WADDIR,.
+Z_Init(): Init zone memory allocation daemon. 
+System memory: 16285MB - Free: 7014MB
+I_InitializeTime()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\srb2.srb
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\srb2.srb (6214 lumps)
+Loading main config from M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\srb2.srb
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\gfx.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\gfx.kart (1917 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\textures.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\textures.kart (5054 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\chars.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\chars.kart (526 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\maps.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\maps.kart (1718 lumps)
+Loading SOC from M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\maps.kart|SOC_MAIN
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\extra.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\extra.kart (59 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\extra2.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\extra2.kart (26 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\sounds.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\sounds.kart (675 lumps)
+Loading M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\music.kart
+Added file M:\SRB2Kart\KNSD 2.3\Karts Never Say Die v2.3\music.kart (123 lumps)
+I_StartupGraphics()...
+Using last known renderer: opengl
+Using last know MSAA value: 0
+NOTE: Under SDL2, all modes are supported on all platforms.
+Under opengl, fullscreen only supports native desktop resolution.
+Under software, the mode is stretched up to desktop resolution.
+ 0: 2560x1440
+ 1: 1920x1200
+ 2: 1920x1080
+ 3: 1680x1050
+ 4: 1600x1200
+ 5: 1600x900
+ 6: 1366x768
+ 7: 1440x900
+ 8: 1280x1024
+ 9: 1280x960
+10: 1280x800
+11: 1280x720
+12: 1152x864
+13: 1024x768
+14: 960x600
+15: 800x600
+16: 735x415
+17: 640x480
+18: 640x400
+19: 500x300
+20: 320x240
+21: 320x200
+Loaded OpenGL version 4.6.0 NVIDIA 551.86
+HWR_Startup()...
+InitMD2()...
+Unknown sprite/player skin AGENT3 detected in mdls.dat
+Unknown sprite/player skin AGENT8 detected in mdls.dat
+Unknown sprite/player skin AIAI detected in mdls.dat
+Unknown sprite/player skin AIGIS detected in mdls.dat
+Unknown sprite/player skin AMIGO detected in mdls.dat
+Unknown sprite/player skin AMY detected in mdls.dat
+Unknown sprite/player skin ARLE detected in mdls.dat
+Unknown sprite/player skin ARLECOMP detected in mdls.dat
+Unknown sprite/player skin AZDX detected in mdls.dat
+Unknown sprite/player skin BABA detected in mdls.dat
+Unknown sprite/player skin BEAN detected in mdls.dat
+Unknown sprite/player skin BEAT detected in mdls.dat
+Unknown sprite/player skin BIG detected in mdls.dat
+Unknown sprite/player skin BIGTHECAT detected in mdls.dat
+Unknown sprite/player skin BLAZE detected in mdls.dat
+Unknown sprite/player skin BLEC detected in mdls.dat
+Unknown sprite/player skin BOMB detected in mdls.dat
+Unknown sprite/player skin BOMBERMAN detected in mdls.dat
+Unknown sprite/player skin BUBR detected in mdls.dat
+Unknown sprite/player skin BUTV detected in mdls.dat
+Unknown sprite/player skin CALLIE_SS detected in mdls.dat
+Unknown sprite/player skin CAMO detected in mdls.dat
+Unknown sprite/player skin CARB detected in mdls.dat
+Unknown sprite/player skin CAROL detected in mdls.dat
+Unknown sprite/player skin CATERKILLER detected in mdls.dat
+Unknown sprite/player skin COLA detected in mdls.dat
+Unknown sprite/player skin CCTV detected in mdls.dat
+Unknown sprite/player skin CHAO detected in mdls.dat
+Unknown sprite/player skin CHARMY detected in mdls.dat
+Unknown sprite/player skin CHEZ detected in mdls.dat
+Unknown sprite/player skin CHUCHU detected in mdls.dat
+Unknown sprite/player skin CKIP detected in mdls.dat
+Unknown sprite/player skin CRAWLAKART detected in mdls.dat
+Unknown sprite/player skin CREAM detected in mdls.dat
+Unknown sprite/player skin CURLYBRACE detected in mdls.dat
+Unknown sprite/player skin DARKCHAO detected in mdls.dat
+Unknown sprite/player skin DBAN detected in mdls.dat
+Unknown sprite/player skin DERP detected in mdls.dat
+Unknown sprite/player skin DFAK detected in mdls.dat
+Unknown sprite/player skin DGSH detected in mdls.dat
+Unknown sprite/player skin DIDDYKONG detected in mdls.dat
+Unknown sprite/player skin DIRK detected in mdls.dat
+Unknown sprite/player skin DIXIEKONG detected in mdls.dat
+Unknown sprite/player skin DK64 detected in mdls.dat
+Unknown sprite/player skin DOOM detected in mdls.dat
+Unknown sprite/player skin DOOMGUY detected in mdls.dat
+Unknown sprite/player skin DRIL detected in mdls.dat
+Unknown sprite/player skin DRSH detected in mdls.dat
+Unknown sprite/player skin EGGMAN detected in mdls.dat
+Unknown sprite/player skin EGGROBO detected in mdls.dat
+Unknown sprite/player skin EMERL detected in mdls.dat
+Unknown sprite/player skin ESPIO detected in mdls.dat
+Unknown sprite/player skin FED detected in mdls.dat
+Unknown sprite/player skin FANG detected in mdls.dat
+Unknown sprite/player skin FLAR detected in mdls.dat
+Unknown sprite/player skin FLICKY detected in mdls.dat
+Unknown sprite/player skin FLTV detected in mdls.dat
+Unknown sprite/player skin FRYE detected in mdls.dat
+Unknown sprite/player skin FTHK detected in mdls.dat
+Unknown sprite/player skin GAMMA detected in mdls.dat
+Unknown sprite/player skin GAMMACAR detected in mdls.dat
+Unknown sprite/player skin GMCR detected in mdls.dat
+Unknown sprite/player skin GENO detected in mdls.dat
+Unknown sprite/player skin Grounder detected in mdls.dat
+Unknown sprite/player skin HEADY detected in mdls.dat
+Unknown sprite/player skin HEROCHAO detected in mdls.dat
+Unknown sprite/player skin HORNET detected in mdls.dat
+Unknown sprite/player skin ABJZ detected in mdls.dat
+Unknown sprite/player skin JETC detected in mdls.dat
+Unknown sprite/player skin JETS detected in mdls.dat
+Unknown sprite/player skin JOKER detected in mdls.dat
+Unknown sprite/player skin JULIAKART detected in mdls.dat
+Unknown sprite/player skin KANADE detected in mdls.dat
+Unknown sprite/player skin KART8LUIGI detected in mdls.dat
+Unknown sprite/player skin KARTLUIGI detected in mdls.dat
+Unknown sprite/player skin SUMA detected in mdls.dat
+Unknown sprite/player skin KELSORA detected in mdls.dat
+Unknown sprite/player skin KIRBYMODERN detected in mdls.dat
+Unknown sprite/player skin KIRYU detected in mdls.dat
+Unknown sprite/player skin KLONOA_LUNATEA detected in mdls.dat
+Unknown sprite/player skin KNUCKLES detected in mdls.dat
+Unknown sprite/player skin LEVL detected in mdls.dat
+Unknown sprite/player skin LILAC detected in mdls.dat
+Unknown sprite/player skin LOVR detected in mdls.dat
+Unknown sprite/player skin LUIGI detected in mdls.dat
+Unknown sprite/player skin MAMY detected in mdls.dat
+Unknown sprite/player skin MARINALITEYEARS detected in mdls.dat
+Unknown sprite/player skin MARIE_SS detected in mdls.dat
+Unknown sprite/player skin MECHA detected in mdls.dat
+Unknown sprite/player skin MEDR detected in mdls.dat
+Unknown sprite/player skin METALKNUX detected in mdls.dat
+Unknown sprite/player skin METALSONIC detected in mdls.dat
+Unknown sprite/player skin METAL_KNUCKLES detected in mdls.dat
+Unknown sprite/player skin MIGHTY detected in mdls.dat
+Unknown sprite/player skin MIKU detected in mdls.dat
+Unknown sprite/player skin MILLA detected in mdls.dat
+Unknown sprite/player skin MMVOLNUTT detected in mdls.dat
+Unknown sprite/player skin MODERNAMY detected in mdls.dat
+Unknown sprite/player skin MOTOBUG detected in mdls.dat
+Unknown sprite/player skin MOVR detected in mdls.dat
+Unknown sprite/player skin MRKILL detected in mdls.dat
+Unknown sprite/player skin MSONIC detected in mdls.dat
+Unknown sprite/player skin MSPAINTDOG detected in mdls.dat
+Unknown sprite/player skin MSPAINTDOG detected in mdls.dat
+Unknown sprite/player skin NEDR detected in mdls.dat
+Unknown sprite/player skin NEERA detected in mdls.dat
+Unknown sprite/player skin NEPTUNE detected in mdls.dat
+Unknown sprite/player skin NIGHTS detected in mdls.dat
+Unknown sprite/player skin NOCC detected in mdls.dat
+Unknown sprite/player skin Noid detected in mdls.dat
+Unknown sprite/player skin OCTF detected in mdls.dat
+Unknown sprite/player skin OMEGA detected in mdls.dat
+Unknown sprite/player skin OMOCHAO detected in mdls.dat
+Unknown sprite/player skin OPAOPA detected in mdls.dat
+Unknown sprite/player skin OSHD detected in mdls.dat
+Unknown sprite/player skin OVOL detected in mdls.dat
+Unknown sprite/player skin PAGL detected in mdls.dat
+Unknown sprite/player skin PAPERMARIO detected in mdls.dat
+Unknown sprite/player skin PCAR detected in mdls.dat
+Unknown sprite/player skin PENGO detected in mdls.dat
+Unknown sprite/player skin PITA detected in mdls.dat
+Unknown sprite/player skin PPNO detected in mdls.dat
+Unknown sprite/player skin PLOK detected in mdls.dat
+Unknown sprite/player skin POINTY detected in mdls.dat
+Unknown sprite/player skin POPUKO detected in mdls.dat
+Unknown sprite/player skin PYRA detected in mdls.dat
+Unknown sprite/player skin Pizza detected in mdls.dat
+Unknown sprite/player skin QUOTE detected in mdls.dat
+Unknown sprite/player skin RAY detected in mdls.dat
+Unknown sprite/player skin REALA detected in mdls.dat
+Unknown sprite/player skin RINV detected in mdls.dat
+Unknown sprite/player skin RISTAR detected in mdls.dat
+Unknown sprite/player skin ROBIT detected in mdls.dat
+Unknown sprite/player skin ROBOSONIC detected in mdls.dat
+Unknown sprite/player skin ROSY detected in mdls.dat
+Unknown sprite/player skin ROUGE detected in mdls.dat
+Unknown sprite/player skin RYUKO detected in mdls.dat
+Unknown sprite/player skin SAKURA detected in mdls.dat
+Unknown sprite/player skin SAKURAK detected in mdls.dat
+Unknown sprite/player skin SERVAL detected in mdls.dat
+Unknown sprite/player skin SHADOW detected in mdls.dat
+Unknown sprite/player skin SILVER detected in mdls.dat
+Unknown sprite/player skin SILVER-SONIC detected in mdls.dat
+Unknown sprite/player skin SILVER_SONIC detected in mdls.dat
+Unknown sprite/player skin SINON detected in mdls.dat
+Unknown sprite/player skin SONIC detected in mdls.dat
+Unknown sprite/player skin SPSP detected in mdls.dat
+Unknown sprite/player skin SQUARE detected in mdls.dat
+Unknown sprite/player skin SRB2MODERN detected in mdls.dat
+Unknown sprite/player skin SSMA detected in mdls.dat
+Unknown sprite/player skin SSTR detected in mdls.dat
+Unknown sprite/player skin SUGO detected in mdls.dat
+Unknown sprite/player skin SUKAPON detected in mdls.dat
+Unknown sprite/player skin SUPERSONIC detected in mdls.dat
+Unknown sprite/player skin Scratch detected in mdls.dat
+Unknown sprite/player skin TAILS detected in mdls.dat
+Unknown sprite/player skin TCTV detected in mdls.dat
+Unknown sprite/player skin TIKAL detected in mdls.dat
+Unknown sprite/player skin TNCA detected in mdls.dat
+Unknown sprite/player skin TNCN detected in mdls.dat
+Unknown sprite/player skin TOHRU detected in mdls.dat
+Unknown sprite/player skin TURRET detected in mdls.dat
+Unknown sprite/player skin ULALA detected in mdls.dat
+Unknown sprite/player skin VECTOR detected in mdls.dat
+Unknown sprite/player skin VECTORMAN detected in mdls.dat
+Unknown sprite/player skin VYSE detected in mdls.dat
+Unknown sprite/player skin WONDERBOY detected in mdls.dat
+Unknown sprite/player skin YAHTZEEZP detected in mdls.dat
+Unknown sprite/player skin YELW detected in mdls.dat
+Unknown sprite/player skin YIIK detected in mdls.dat
+Unknown sprite/player skin YOSHI detected in mdls.dat
+Unknown sprite/player skin announcement detected in mdls.dat
+Unknown sprite/player skin athf detected in mdls.dat
+Unknown sprite/player skin bread detected in mdls.dat
+Unknown sprite/player skin carl detected in mdls.dat
+Unknown sprite/player skin classicKIRBY detected in mdls.dat
+Unknown sprite/player skin dicsonic detected in mdls.dat
+Unknown sprite/player skin ecco detected in mdls.dat
+Unknown sprite/player skin hatkid detected in mdls.dat
+Unknown sprite/player skin inklingfemale detected in mdls.dat
+Unknown sprite/player skin joemusashi detected in mdls.dat
+Unknown sprite/player skin majora detected in mdls.dat
+Unknown sprite/player skin marioeluigi_re detected in mdls.dat
+Unknown sprite/player skin mewtwo detected in mdls.dat
+Unknown sprite/player skin neo detected in mdls.dat
+Unknown sprite/player skin rabbid detected in mdls.dat
+Unknown sprite/player skin shantae detected in mdls.dat
+Unknown sprite/player skin slds detected in mdls.dat
+Unknown sprite/player skin smw-yoshi detected in mdls.dat
+Unknown sprite/player skin kirby detected in mdls.dat
+Unknown sprite/player skin wheeliemotobug detected in mdls.dat
+Loaded OpenGL version 4.6.0 NVIDIA 551.86
+HU_Init(): Setting up heads up display.
+Number of console HUD lines is now 5
+I_InitJoystick()...
+executing kartconfig.cfg
+Default resolution: 1280 x 800 (24 bits)
+M_Init(): Init miscellaneous info.
+R_Init(): Init SRB2 refresh daemon.
+R_LoadTextures()...
+P_InitPicAnims()...
+R_InitSprites()...
+srb2.srb added 2975 frames in 232 sprites
+gfx.kart added 1044 frames in 152 sprites
+chars.kart added 87 frames in 1 sprites
+AddPlayerMD2()...
+Added skin 'tails'
+AddPlayerMD2()...
+Added skin 'knuckles'
+AddPlayerMD2()...
+Added skin 'eggman'
+AddPlayerMD2()...
+Added skin 'metalsonic'
+AddPlayerMD2()...
+R_InitColormaps()...
+S_InitSfxChannels(): Setting up sound channels.
+libopenmpt version: 0.7.5+r20388.pkg
+libopenmpt build date: 2024-03-17T07:44:31.885993Z
+ST_Init(): Init status bar.
+D_AutoloadFile(): Loading autoloaded addons...
+D_CheckNetGame(): Checking network game status.
+Entering main game loop...
+Loaded OpenGL version 4.6.0 NVIDIA 551.86
+===========================================================================
+                   We hope you enjoy this game as
+                     much as we did making it!
+===========================================================================
+SRB2Kart Saturn v6.1  (Apr  5 2024 16:36:25 87cf75ef)
+SDL Windows 64-bit 
+Discord: connected to thesonikku#0 (214515807265357825)
+Starting Server....
+Speeding off to level...
+Recording demo replay\online\1721177496-MAP05.lmp
+$cam_height 20
+$cam_dist 50
+$cam_dist 70
+I_ShutdownGraphics(): shut down
+Shutting down gamecontroller system
+I_Joystick: SDL's Game Controller system has been shutdown
+Shutting down joy system
+I_Joystick: SDL's Joystick system has been shutdown
+I_ShutdownTcpDriver: shut down
+Shutting down DiscordRPC
+I_ShutdownSystem(): end of logstream.

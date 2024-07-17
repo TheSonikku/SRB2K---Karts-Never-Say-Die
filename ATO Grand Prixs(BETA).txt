@@ -1,0 +1,39 @@
+"Icing on the Cake" Cup
+- ATO_StartSet mapvb mapid mapdp mapjw mapmo
+
+"It's GRAND METROPOLIS" Cup
+- ATO_StartSet map10 maprb mapc5 mapfb
+
+"Sparkle" Cup
+- ATO_StartSet mapvg mappg mapjp mapkp
+
+"KEEP GAMBLING" Cup
+- ATO_StartSet map22 mapvd mapoe
+
+"Night Driving" Cup
+- ATO_StartSet mapbt mapyd mapk0 mapk4 mapw8
+
+"Volcano" Cup
+- ATO_StartSet mapjm
+
+"Autumn Afternoon" Cup
+- ATO_StartSet mapku maprj
+
+"Shoreline Scrambles" Cup
+- ATO_StartSet mapr2
+
+"A G E S" Cup
+- ATO_StartSet maps2
+
+"Cyberspace" Cup
+- ATO_StartSet mapyt mapmk
+
+"NASCAR" Cup
+- ATO_StartSet 
+
+"TWINKLE PAHRK" Cup
+- ATO_StartSet 
+
+"Little" Cup
+- ATO_StartSet 
+

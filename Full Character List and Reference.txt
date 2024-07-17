@@ -1,0 +1,353 @@
+Character List/ID Reference
+
+Alts and Dubs are at the bottom of this file.
+
+Internal Name   	|  Display Name
+-------------------------------
+[2b         		] YorHa No.2 TypeB
+[2d         		] 2D
+[8lnk       		] 8bit Link
+[adachi     		] Tohru Adachi
+[adeleine       	] Adeleine
+[aerith         	] Aerith
+[agent3				] Agent 3
+[aiai    			] AiAi
+[aigis  			] Aigis
+[amogus         	] Crewmate
+[amy            	] Amy
+[ankha          	] Ankha
+[announcement   	] Cardboard Eggman
+[aosthrobotnik  	] AoStH Robotnik
+[arle  				] Arle
+[armstrong  		] Armstrong
+[arthur   			] Arthur Kingsmen
+[athf      			] ATHF Cart
+[avgn   	    	] AVGN
+[baba           	] Baba & Keke
+[bandana_dee  		] Bandana Dee
+[banjo    			] Banjo & Kazooie
+[bayonetta  		] Bayonetta
+[bigthecat      	] Big the Cat
+[billyh         	] Billy Hatcher
+[blaze 				] Blaze
+[blackdoom 			] Black Doom
+[blitztank      	] Blitztank
+[bob            	] Bob
+[bomberman  		] BomberMan
+[bowser     		] Bowser
+[bread          	] Bread
+[bridget        	] Bridget
+[buff_riku   		] Buff Riku
+[bulborb  			] Bulborb
+[bulma          	] Bulma
+[bunnie         	] Bunnie
+[callie_ss   		] Callie
+[carl           	] Carl
+[carol   	    	] Carol
+[caterkiller    	] Caterkiller
+[chainchomp     	] Chain Chomp
+[chaos 				] Chaos Zero
+[chiaki         	] Chiaki Nanami
+[chibinaoto 		] Chibi Naoto
+[chie   			] Chie
+[classickirby   	] Classic Kirby
+[coldsteel   		] Coldsteel
+[cola			 	] Cola
+[colettebrunel  	] Colette
+[coop           	] Coop
+[cordelia 			] Cordelia
+[cosmo  			] Cosmo
+[cptfalcon			] Captain Falcon
+[crash_b		 	] Crash Bandicoot
+[crono   	    	] Crono
+[ctrspyro       	] Spyro
+[daisy      		] Daisy
+[dantekrt  			] Dante
+[darkmatter 		] Dark Matter
+[demi-fiend 		] Demi-Fiend
+[dicsonic       	] DiC Sonic
+[dimentio   		] Dimentio
+[donkeykong64		] Donkey Kong (64)
+[doom   			] Doomguy
+[dougdimmadome		] Doug Dimmadome
+[dougwalker			] Nostalgia Critic
+[ecco           	] Ecco
+[echostrike     	] Echo
+[eggman         	] Dr. Eggman
+[ena            	] Ena
+[eunie  			] Eunie
+[flonne         	] Flonne
+[freeza2nd			] Freeza
+[frog_in_a_car  	] Frog in a Car
+[frye        		] Frye
+[funky   			] Funky Kong
+[gamma          	] E-102 Gamma
+[ganondorf      	] Ganondorf
+[gardevoir      	] Gardevoir
+[geno           	] Geno
+[goku           	] Goku
+[goose          	] Goose
+[gordon_freeman 	] Gordon Freeman
+[grounder       	] Grounder
+[gum   				] Gum
+[gustavoandbrick	] Gustavo & Brick
+[haru           	] Haru
+[hatkid      		] Hat Kid
+[heavy      		] Heavy
+[heisenberg 		] Walter White
+[hoes_mad			] Erdrick
+[homer      		] Homer Simpson
+[hornet     		] Hornet
+[hornets   			] Hornets
+[hotelmario     	] Hotel Mario
+[infinite       	] Infinite
+[initiald 			] AE86 Trueno
+[jennyxj9     		] Jenny / XJ-9
+[jerma985 			] Jerma985
+[jessica     		] Jessica
+[joemusashi     	] Joe Musashi
+[johnnybravo 		] Johnny Bravo
+[johnward       	] John Ward
+[jon_arbuckle		] Jon
+[jonesy     		] Jonesy Fortnite
+[jotaro   			] Jotaro
+[juliakart      	] Julia
+[kaneda    			] Shotaro Kaneda
+[kat            	] Kat
+[kelsora   			] Sora
+[kermitthefrog  	] Kermit
+[kingddd        	] King DeDeDe
+[kingkrool			] King K Rool
+[kirby          	] Kirby
+[kiryu   			] Kiryu Kazuma
+[knuckles       	] Knuckles
+[korone    			] Korone Inugami
+[krabs       		] Mr. Krabs
+[kumatora   		] Kumatora
+[l4dfrancis     	] Francis
+[leac        		] Lea
+[lc-employee		] Employee (LC)
+[lilac      		] Sash Lilac
+[linkandepona		] Link & Epona
+[linkgb      		] Link
+[lowtiergod			] LowTierGod
+[lucas          	] Lucas
+[lucoa    			] Lucoa
+[luffy   			] Luffy
+[luigi    			] Luigi
+[magikarp   		] Magikarp
+[majima  			] Majima
+[majora    			] Majora
+[marie_ss  			] Marie
+[marill       		] Marill
+[marinaliteyears	] Marina Liteyears
+[marioeluigi_re 	] Mario & Luigi
+[mashu      		] Mash Kyrielight
+[masterchief		] Master Chief
+[mecha          	] Mecha Sonic
+[megamancero    	] Mega Man Zero
+[megamanexe     	] MegaMan.exe
+[megamanx       	] X
+[meggman        	] Modern Eggman
+[metaknight   		] Meta Knight
+[metalmario     	] Metal Mario
+[metalslug  		] Metal Slug
+[metalsonic     	] Metal Sonic
+[mewtwo         	] Mewtwo
+[miku    			] Hatsune Miku
+[mkdsrob			] R. O. B.
+[mmmrat    			] Movie Maker Rat
+[monokuma       	] Monokuma
+[morgana    		] Morgana
+[morshu     		] Morshu
+[mothman   			] Mothman
+[mythra 			] Mythra
+[necoarc     		] Neco Arc
+[neo       			] Neopolitan
+[nia    			] Nia
+[nights				] NiGHTS
+[noid    	    	] Noid
+[noise          	] TheNoise
+[omega 				] E-123 Omega
+[palutena 			] Palutena
+[papermario     	] Paper Mario
+[pauline   			] Pauline
+[peach     			] Peach
+[peppino        	] Peppino
+[peter      		] Peter Griffin
+[picc           	] Piccolo
+[pim&charlie		] Pim & Charlie
+[porkyminch   		] Porky Minch
+[puttputt    		] Putt-Putt
+[pyra   			] Pyra
+[queen_dr    		] QUEEN
+[rabbid         	] Rabbid
+[ramiel       		] Ramiel
+[reankart   		] Rean Schwarzer
+[retro_pikachu		] Retro Pikachu
+[ridley   			] Ridley
+[ristar        		] Ristar
+[rivet          	] Rivet
+[rixia         		] Rixia
+[robit        		] Robit
+[robosonic     		] Robo-Sonic
+[rosalina   		] Rosalina
+[rouge 				] Rouge
+[rubyrose   		] Ruby Rose
+[running_sonic		] Sonic (Feet)
+[ryougishiki		] Ryougi Shiki
+[ryuko    			] Ryuko
+[saber      		] Saber
+[sally         		] Sally Acorn
+[samus    			] Samus Aran
+[sans        		] Sans
+[satam_robotnik		] SatAM Robotnik
+[satsuki  			] Satsuki
+[scratch       		] Scratch
+[sega_bass   		] Sega Bass Fishin
+[shadow				] Shadow
+[shantae     		] Shantae
+[shiver      		] Shiver
+[shovel_knight		] Shovel Knight
+[shrek        		] Shrek
+[silver				] Silver
+[silver_sonic   	] Silver Sonic
+[slds       		] Solid Snake
+[slycooper   		] Sly Cooper
+[smw-yoshi  		] SMW Yoshi
+[solaire     		] Solaire
+[sonic         		] Sonic
+[space_marine		] Space Marine
+[spamton     		] Spamton
+[spongebob			] SpongeBob
+[squidward			] Squidward
+[ssma          		] DiC Mario
+[starline      		] Dr. Starline
+[stink        		] Stink
+[surgeidw			] Surge
+[susiehaltmann		] Susie Haltmann
+[swatbot       		] Swat-Bot
+[sweetjp    		] Sweet JP
+[t-54         		] T-54
+[tails         		] Tails
+[tangle        		] Tangle
+[team_rocket  		] Team Rocket
+[terry      		] Terry
+[theflea      		] The Flea
+[tiefighter 		] TIE/In
+[tifa   			] Tifa Lockhart
+[tiptup   			] Tiptup
+[tobeymaguire 		] The Human Spider
+[toon_link    		] Toon Link
+[ttmario       		] TeachesTypingMar
+[turret        		] Turret
+[ulala 				] Ulala
+[v1           		] V1
+[vanilla 			] Vanilla
+[vanellope 			] Vanellope
+[vegeta         	] Vegeta
+[vigilante      	] The Vigilante
+[vinny     			] Vinny Vinesauce
+[vyse    			] Vyse
+[wallacewng   		] Wallace
+[waluigibike		] Waluigi
+[wario      		] Biker Wario
+[wheeliemotobug		] Wheelie Motobug
+[whisper 			] Whisper
+[yahoo         		] BLJ
+[yiik         		] Alex Eggleston
+[yu     			] Yu
+[zero          		] Zero (X4)
+
+
+Alternate Appearance Reference
+
+Type "appear" "[internal name]" "[appear name]" to change. 
+"Appear" "default" to reset.
+ 
+Internal Name		| Appear Name
+----------------------------------
+
+[aerith				] "PS1"
+[aigis				] "Toaster"
+[agent3				] "Agent8"
+[amy				] "ClassicAmy", "MotorAmy", "Rusty"
+[arle				] "JayElle"
+[baba				] "babafeet"
+[blaze				] "Percival"
+[bob				] "Scoot"
+[bowser				] "DIC"
+[bulborb			] "wraith"
+[chainchomp			] "BulletBill"
+[crash_b			] "Coco"
+[cosmo				] "Maria"
+[darkmatter			] "Ball"
+[gamma				] "EggRobo", "Car"
+[gordon_freeman		] "JohnFreeman"
+[gum				] "Beat"
+[heavy				] "Medic", "Soldier", "Demoman", "Scout"
+[hornet				] "Real"
+[infinite			] "Mephiles"
+[kirby				] "Carby", "Robobot"
+[luigi				] "RedLuigi"
+[magikarp			] "Wailord"
+[mecha				] "Metallix"
+[megamanexe			] "Protoman"
+[megamanx			] "Axl"
+[metaknight			] "Dark", "Galacta"
+[metalsonic			] "FormulaMetal"
+[metalsonic		 	] "Metalknux"
+[miku				] "BetaMiku"
+[neo				] "Chell"
+[neo				] "Echo"
+[puttputt			] "Lightning"
+[pyra				] "Bike"
+[rouge				] "AgentRouge"
+[sally				] "SatAM"
+[sans				] "Papyrus"
+[shadow				] "Lancelot"
+[shantae			] "Rottytops"
+[smw-yoshi			] "Boshi"
+[sonic				] "SonicRacing"
+[toon_link			] "Linebeck"
+[turret				] "GlaDOS"
+[vinny				] "Joel"
+[wario				] "LivingWithWario"
+
+
+Character Dub Reference
+
+Type "dub" "[internal name]" "[dub name]" to change. 
+"dub" "default" to reset.
+
+Internal Name		| Dub Name(s)
+------------------------------------
+
+[agent3				] "Agent8"
+[amy				] "Rusty"
+[arle				] "JayElle"
+[bowser				] "DIC"
+[bulborb			] "wraith"
+[crash_b			] "Coco"
+[chainchomp			] "BulletBill"
+[gordon_freeman		] "JohnFreeman"
+[gum				] "Beat"
+[heavy				] "Medic", "Soldier", "Demoman", "Scout"
+[infinite			] "Mephiles"
+[luigi				] "RedLuigi"
+[magikarp			] "Wailord"
+[megamanexe			] "Protoman"
+[megamanx			] "Axl"
+[meggman			] "adventure"
+[metalsonic		 	] "metalknux"
+[neo				] "Echo"
+[puttputt			] "Lightning"
+[rouge				] "heroes", "racing"
+[sans				] "Papyrus"
+[shadow				] "damn"
+[shantae			] "Rottytops"
+[sonic				] "heroes", "unleashed", "adventure"
+[toon_link			] "Linebeck"
+[turret				] "potato"
+[vinny				] "swedish"
+[wario				] "lookguyslook"

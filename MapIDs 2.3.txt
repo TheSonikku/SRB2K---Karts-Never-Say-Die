@@ -1,0 +1,615 @@
+ID|HELL |SPNT |TYPE | NAME [returned 500 total maps]
+-----------------------------------
+01:     |     |RACE | Green Hills  
+02:     |     |RACE | Dark Race  
+03:     |     |RACE | Northern District  
+04:     |     |RACE | Darkvile Garden  
+05:     |     |RACE | Daytona Speedway  
+06:     |     |RACE | Egg Zeppelin  
+07:     |     |RACE | Sonic Speedway  
+08:     |     |RACE | Hill Top  
+09:     |     |RACE | Misty Maze  
+10:     |     |RACE | Grand Metropolis  
+11:     |     |RACE | Sunbeam Paradise  
+12:     |     |RACE | Diamond Square  
+13:     |     |RACE | Midnight Meadow  
+14:     |SPNT |RACE | Twinkle Cart  
+15:     |     |RACE | Pleasure Castle  
+16:     |     |RACE | Paradise Hill  
+17:     |     |RACE | Sub-Zero Peak  
+18:     |     |RACE | Sapphire Coast  
+19:     |     |RACE | Sand Valley  
+20:     |     |RACE | Megablock Castle  
+21:     |SPNT |RACE | Canyon Rush  
+22:     |     |RACE | Casino Resort  
+23:     |     |RACE | Silvercloud Island  
+24:     |     |RACE | Blue Mountain  
+25:     |     |RACE | Petroleum Refinery  
+26:     |     |RACE | Desert Palace  
+27:     |     |RACE | Aurora Atoll  
+28:     |     |RACE | Barren Badlands  
+29:     |     |RACE | Red Barrage Area 
+30:     |     |RACE | Midnight Channel  
+31:     |     |RACE | Vanilla Hotel  
+32:     |     |RACE | Toxic Palace  
+33:     |SPNT |RACE | Ancient Tomb  
+34:     |     |RACE | Cloud Cradle  K
+35:     |     |RACE | Volcanic Valley  
+36:     |     |RACE | Kodachrome Void  
+37:     |     |RACE | Boiling Bedrock  
+38:     |     |RACE | Egg Quarters  
+39:     |     |RACE | Virtual Highway  
+40:     |     |RACE | Eggman's Nightclub  
+41:     |     |RACE | KKR Ganbare Dochu 2
+42:     |     |RACE | CK Chao Circuit 1
+43:     |     |RACE | CK Chao Circuit 2
+45:     |     |RACE | CK Regal Raceway 
+46:     |     |RACE | SD2 Balloon Panic 
+47:     |     |RACE | SM Special Stage 3
+49:     |     |RACE | MKDS Peach Gardens 
+56:     |     |RACE | Lake Margorite  
+57:     |     |RACE | Coastal Temple  
+58:     |SPNT |RACE | Kart Airlines  
+59:     |     |RACE | Honeybee Industry  
+60:     |     |RACE | Crimson Core  
+62:     |     |RACE | Plant Kingdom  
+63:     |     |RACE | Coral Cave  
+64:     |     |RACE | Machine Labyrinth  
+65:     |     |RACE | Haunted Ship  
+66:     |     |RACE | Blizzard Peaks  
+67:     |     |RACE | Pirate Island  
+70:     |     |RACE | Drippy Docks  
+71:     |     |RACE | GigaByte Glade  
+72:     |     |RACE | Cosmic Coast  
+73:     |     |RACE | Pizza Panic  
+74:     |     |RACE | Banger Boneyard  
+76:     |     |RACE | Flipgoop Station  K
+82:     |     |RACE | Frozen Lake  
+84:     |     |RACE | Windy Hilltop  
+85:     |     |RACE | Crash Course  
+87:     |     |RACE | Salt Factory  
+88:     |     |RACE | Tux Raceway  
+89:     |     |RACE | Shinigami Valley  
+91:     |     |RACE | Midnight Channel Beta 
+92:     |SPNT |RACE | Forbidden Temple  
+A2:     |     |RACE | Teiai Towers  
+A3:     |     |RACE | Liminal Landscape  
+A4:     |     |RACE | Digital Dimension  
+A5:     |     |RACE | MKSC Cheese Land  
+AO:     |     |RACE | MKDS Airship Fortress 
+AX:     |     |RACE | Misty Mountainpass  
+AZ:     |     |RACE | PizzaScape  
+BT:     |     |RACE | Eurobeat Highway  
+BU:     |     |RACE | Deep Glacial  
+BV:     |     |RACE | Salt Quarantine  
+BW:     |     |RACE | Howling Bogs  
+BX:     |     |RACE | National Park  
+BY:     |     |RACE | Brimstone Ruins  
+BZ:     |     |RACE | Golden Passage WL4 
+C2:     |     |RACE | CTR Slide Coliseum  
+C4:     |     |RACE | SM Special Stage 1
+C5:     |     |RACE | Cannon Course  
+C6:     |     |RACE | SM Special Stage 4
+C7:     |     |RACE | SM Special Stage 5
+C8:     |     |RACE | SM Special Stage 6
+CE:     |     |RACE | MKSC Boo Lake  
+CF:     |     |RACE | Standoff Saloon  
+CM:     |     |RACE | Crispy Canyon   
+CN:     |     |RACE | Melty Manor  
+CO:     |     |RACE | Volatile Volcano  
+CP:     |     |RACE | Aerial Badlands  
+CW:     |     |RACE | Kokiri Forest  
+CY:     |     |RACE | Classic Zora's Domain  
+DA:     |     |RACE | Plains of Passage  
+DB:     |     |RACE | Pridemoor Keep  
+DC:     |     |RACE | Lich Yard  
+DD:     |     |RACE | Explodatorium  
+DE:     |SPNT |RACE | Lost City  
+DF:     |     |RACE | Ancient Piston  
+DG:     |     |RACE | MKR DS Peach Gardens  
+DH:     |     |RACE | Sakura Raceway  
+DK:     |     |RACE | Chrome Gadget  
+DM:     |     |RACE | Aquatic Coast  
+DN:     |     |RACE | Jelly Circuit 2  
+DP:     |     |RACE | Alpine Cake  
+DS:     |     |RACE | Downtown Dash  
+DT:     |     |RACE | Traumatic Titanic  
+DU:     |     |RACE | Warehouse Skatepark  
+DV:     |     |RACE | Sorbet Circuit  
+DW:     |     |RACE | Icicle Avenue  
+DX:     |     |RACE | Lake Glassalo  
+DZ:     |     |RACE | Burning Bone  
+E1:     |     |RACE | Virtua Circuit  
+E2:     |     |RACE | Snowdust Valley  
+E3:     |     |RACE | Mount Acres Circuit (Short) 
+E4:     |     |RACE | Ridge Turnpike  
+E5:     |     |RACE | Polychrome Polygon  
+E6:     |     |RACE | Trichromatic Space  
+E7:     |     |RACE | Dynamite Wilderness  
+E8:     |     |RACE | Meteor Desert  
+EA:     |     |RACE | BACKROOM VELOCITY 
+EB:     |     |RACE | VR Big Forest  
+EC:     |     |RACE | RR Seaside Route 765 
+ES:     |     |RACE | Glacial Coridor  
+EU:     |     |RACE | Death Snowman  
+F0:     |     |RACE | Seaside Labyrinth  
+F1:     |     |RACE | Cutout Warehouse  K
+F2:     |     |RACE | Viridian Cliffside  
+F3:     |     |RACE | Clock Towers  K
+F4:     |SPNT |RACE | Downhill Jam  
+F8:     |     |RACE | TSR Sand Road 
+F9:     |     |RACE | Bubblegum  Breeze 
+FA:     |     |RACE | Solar   Station 
+FB:     |     |RACE | Circuit Highway 
+FC:     |     |RACE | Tourmaline Sprint Zone 
+FI:     |     |RACE | Pearlescent City Zone 
+FQ:     |     |RACE | Lilac Lake  
+FR:     |     |RACE | Mantalith Temple  
+FW:     |     |RACE | TOUCH THE JELLY  
+FX:     |     |RACE | Flaming Fortress  
+FY:     |     |RACE | Solar Star  Road 
+G1:     |     |RACE | Ancient Labyrinth  
+G2:     |     |RACE | Carnival City  
+G3:     |     |RACE | Ice Paradise  
+G4:     |SPNT |RACE | Hot Crater  
+G5:     |     |RACE | Glacial Halls  
+G6:     |     |RACE | Green Cave  
+G7:     |     |RACE | Sky Canyon  
+GA:     |     |RACE | Overgrown Castle  
+GB:     |     |RACE | Midnight Caves  
+GC:     |     |RACE | Empty Sanctum  
+GD:     |     |RACE | Bio Satellite  
+GE:     |     |RACE | Cosmic Rift  
+GF:     |     |RACE | Ethereal Crystal  
+GG:     |     |RACE | Tubular Trashzone  
+GH:     |     |RACE | Sublime Bastion  
+GI:     |     |RACE | Sunken Remnant  
+GJ:     |     |RACE | Harmony Villa  
+GK:     |     |RACE | Fetid Citadel  
+GL:     |     |RACE | Forsaken Bog  
+GM:     |     |RACE | Mundane Purification  
+GN:     |     |RACE | 765 Stadium  
+GO:     |     |RACE | Evaluation Summit  
+GP:     |     |RACE | Malicious Metropolis  
+GQ:     |     |RACE | Avant Acropolis  
+GR:     |     |RACE | Thousand March  
+GT:     |     |RACE | Vermilion Vessel  
+GU:     |     |RACE | Leaf Forest  
+GW:     |     |RACE | Shuffle Square  
+GX:     |     |RACE | Egg Utopia  
+GZ:     |     |RACE | Avant Garden Classic Zone 
+H1:     |     |RACE | Peach's Castle  
+H5:     |     |RACE | 3 Color Drive  
+HN:     |     |RACE | Emerald Hill  
+HO:     |     |RACE | Palmtree Panic  Zone (Past) 
+HP:     |     |RACE | Angel Island  
+HS:     |     |RACE | Greatwolf Lodge  
+HT:     |     |RACE | Hyper Hydro  
+HU:     |     |RACE | DKR Star City  
+I0:     |     |RACE | Insominiatic Heights 
+I1:     |     |RACE | Water Temple  
+I2:     |     |RACE | Aqua Cave  
+I3:     |     |RACE | Floral Forest  
+I4:     |     |RACE | Mirage Monolith  
+I5:     |     |RACE | Metal Corridor  
+I6:     |     |RACE | Sunset Island  
+I7:     |     |RACE | Classic Southern Park 
+I8:     |     |RACE | Burning Furnace  
+I9:     |     |RACE | Snowy Frolics  
+IA:     |SPNT |RACE | Sunbaked Canyon  
+IB:     |     |RACE | Sunny Garden  
+IC:     |     |RACE | Slime Springs  
+ID:     |     |RACE | Sweet Street  
+IE:     |     |RACE | Rusty Ruin  
+IF:     |     |RACE | Indoor Rally  
+IL:     |     |RACE | Evening Cliffside  
+IO:     |     |RACE | Jungle Twist  
+IP:     |     |RACE | Midnight Flannel  
+IQ:     |     |RACE | Abstract Avenue  
+IR:     |     |RACE | Electro Radio  
+IS:     |     |RACE | Crawling Fortress  
+IT:     |     |RACE | Falenas underpass  
+IU:     |     |RACE | Sweet Asteroid  
+IX:     |     |RACE | Desert Bus R  
+IZ:     |SPNT |RACE | Crumbling Tower  
+JE:     |     |RACE | Gravity Belt  
+JF:     |     |RACE | Aquatic Scrapyard  
+JG:     |     |RACE | Celestial Hill  
+JH:     |     |RACE | Snowy World  
+JL:     |     |RACE | Simple Circuit  
+JM:     |     |RACE | Scorching Sanctuary  
+JN:     |     |RACE |  CNK Hyper Spaceway  
+JO:     |     |RACE | Summer Seas  
+JP:     |     |RACE | MK7 Rainbow Road  
+JQ:     |     |RACE | Great Galleon  
+JU:     |     |RACE | Propeled Town  
+JV:     |     |RACE |  MKDD Luigi Circuit  
+JW:     |     |RACE | Cream Cake  
+K0:     |     |RACE | Umbrella Rushwinds  
+K1:     |     |RACE | Verdant Raceway  
+K2:     |     |RACE | Autumn Ring  
+K3:     |     |RACE | Sky Babylon  
+K4:     |SPNT |RACE | Azure Paradise Zone K 
+K5:     |     |RACE | Roasted Ruins  
+K6:     |     |RACE | Panic City  
+K7:     |     |RACE | Molten Manor  
+K8:     |     |RACE | Toxic Tundra  
+K9:     |     |RACE | Hazardous Caverns  
+KA:     |     |RACE | Lake Margorite 2  
+KB:     |     |RACE | SRB2 Emerald Coast K
+KC:     |     |RACE | SRB2 Inferno Citadel K
+KE:     |     |RACE | SRB2 Warped Woods K
+KF:     |     |RACE | Frigid Ridge 
+KG:     |     |RACE | Karlson  
+KL:     |     |RACE | Rainny Savannah  
+KN:     |     |RACE | Frosted Flower  
+KO:     |     |RACE | The Untitled Forest 
+KP:     |     |RACE | Omega Rainbow Road 
+KQ:     |     |RACE | Home Base 
+KR:     |     |RACE | Azure Lake  
+KS:     |     |RACE | Gigapolis Zone 
+KU:     |     |RACE | A Lovelier Afternoon 
+KX:     |     |RACE | Titanic Monarch  
+L1:     |     |RACE | Construction Gym  
+L2:     |     |RACE | Rustic Joyride  
+L3:     |     |RACE | Showtime Showdown  
+L6:     |     |RACE | Sunken Remnant  
+L7:     |     |RACE | WAR  
+L8:     |     |RACE | Rec 'N Rally 
+L9:     |     |RACE | Sedo Meadows  
+LO:     |     |RACE | Ravine Circuit  
+LP:     |     |RACE | Snowy Speedpeaks  
+LQ:     |     |RACE | House of the Undying 
+LR:     |     |RACE | Funky Fortress  
+LS:     |     |RACE | Kodachrome Palace 
+LT:     |     |RACE | Iron Whale  
+LV:     |     |RACE | Sky Based  
+LW:     |     |RACE | Clockwork Tower  
+LX:     |     |RACE | Flying Machine  
+LY:     |     |RACE | Stranded Ship  
+M0:     |     |RACE | Desert Rift Neos 
+M1:     |     |RACE | Neon Sands  
+M3:     |     |RACE | Cascade Glade 
+M4:     |     |RACE | Parking Lot Panic 
+M5:     |     |RACE | Metro Madness 
+M6:     |     |RACE | Freefall Frenzy 
+M7:     |     |RACE | Arena Rush 
+M9:     |     |RACE | Blizzard Bunker 
+MA:     |     |RACE | Dig Site 
+MB:     |     |RACE | Kart Manufactory  
+MC:     |     |RACE | Oriental Isle 
+ME:     |     |RACE | Midnight Ritual  
+MF:     |     |RACE | Tiled Byway  
+MI:     |     |RACE | Meta Junglira  
+MJ:     |SPNT |RACE | Tower of Fate  
+MK:     |     |RACE | Botanic Base  
+ML:     |     |RACE | Mermaid Lake  
+MN:     |     |RACE | Euro Mountain Revo 
+MO:     |     |RACE | Sundae Drive  
+MP:     |     |RACE | Egg Reverence  
+N0:     |     |RACE | Sleeping Egg Zone K
+N1:     |     |RACE | Lazy Summit  
+N2:     |     |RACE | Robotnik Winter  
+N3:     |     |RACE | DKR Crescent Island 
+N4:     |     |RACE | Jade Driftway  
+N5:     |SPNT |RACE | Hadal Trench  
+N6:     |     |RACE | MKWii Coconut Mall 
+N7:     |     |RACE | Eerie Catacombs  
+N8:     |     |RACE | Tempest Ridge  
+N9:     |     |RACE | Mission Street  
+NA:     |     |RACE | Weapons Hangar  
+NB:     |     |RACE | Final Fall  
+NC:     |     |RACE | Thermal Terminal  
+NK:     |     |RACE | Sketchberry Spring  
+NL:     |     |RACE | DKR Jungle Falls  
+NM:     |     |RACE | Wandering Falls  
+NS:     |     |RACE | Hyrule Town Market   
+NT:     |     |RACE | Lon Lon Ranch  
+NV:     |     |RACE | Zora's Domain  
+NW:     |     |RACE | Cathedral  
+NZ:     |     |RACE | Westopolis Wastelands 
+O1:     |     |RACE | Toffee Tor  K
+O2:     |     |RACE | Desert Dream  
+O3:     |     |RACE | City Parkway  
+O4:     |SPNT |RACE | Nuclear Nova  
+O5:     |     |RACE | Lilac Conservatory  K
+O6:     |     |RACE | Opal Island  
+O8:     |     |RACE | Sub-Zero Citadel  
+O9:     |     |RACE | Klik N' Park  
+OA:     |     |RACE | ThornRose Mansion  
+OB:     |     |RACE | Airborne Plaza  
+OC:     |     |RACE | Summer Segue  
+OD:     |     |RACE | A Bud Time 
+OE:     |     |RACE | SD2 Casino Night  
+OF:     |     |RACE | MK64 Bowser's Castle 
+OG:     |     |RACE | DKR Greenwood Village 
+OH:     |     |RACE | SRB2 Greenflower  
+OI:     |SPNT |RACE | KAR Drag Race 3 
+OL:     |     |RACE | Supermarket Sweep  
+OV:     |     |RACE | Boulderstone Alpines Zone K 
+OY:     |     |RACE | Lava Reef  
+PA:     |     |RACE | Amethyst Drive  
+PB:     |     |RACE | DKR Haunted Woods 
+PC:     |     |RACE | Monster Monarch  
+PF:     |     |RACE | Stardust Drive  
+PH:     |     |RACE | Cosmic Eclipse  
+PK:     |     |RACE | Erizo Isle  
+PL:     |     |RACE | Fearnought Factory  
+PN:     |     |RACE | Grit Pit  
+PO:     |     |RACE | Pentagon Paradise  
+QS:     |     |RACE | Donkey Kong Tower  
+QT:     |     |RACE | Puyo Puyo Gardens XL 
+R0:     |     |RACE | Rally Refinery  
+R1:     |     |RACE | Dimensional Cruise  
+R2:     |     |RACE | Dusk Falls  
+R3:     |     |RACE | SS91 Miracle Lancer 
+R4:     |     |RACE | Prisonic Fairytale  
+R5:     |     |RACE | Vapor Garden Zone K 
+R6:     |     |RACE | Highrise Havoc 
+R7:     |     |RACE | Imperial Rose Garden 
+R8:     |     |RACE | Magma Valley  
+R9:     |     |RACE | Rusty Rig  
+RA:     |     |RACE | Foggy Complex  
+RB:     |     |RACE | Neo Metropolis  
+RC:     |     |RACE | Neo Arid Sands  
+RD:     |     |RACE | Techno Hill  
+RE:     |     |RACE | Death Egg's Eye  
+RF:     |     |RACE | Puyo Puyo Gardens  
+RG:     |     |RACE | Monkey Island  
+RH:     |SPNT |RACE | Spelunky  
+RI:     |     |RACE | Planet Flora  
+RJ:     |     |RACE | Youkai Mountain  
+RK:     |     |RACE | Delfino Plaza  
+RL:     |     |RACE | Picture City  
+RM:     |     |RACE | ChuChu Space Stadium 
+RN:     |     |RACE | Zandunia Beach  
+RY:     |     |RACE | Funky Factory  
+S0:     |     |RACE | Hydrocity  
+S1:     |     |RACE | Gemstone Garden  
+S2:     |     |RACE | Retrowave Rush  
+S5:     |     |RACE | Basic Bounce  
+S6:     |     |RACE | SM64 The Princess' Secret Slide 
+SB:     |     |RACE | MMBC Street  
+SC:     |     |RACE | MMBC Mountain  
+SD:     |     |RACE | MMBC Crystal  
+SE:     |     |RACE | MMBC South Pole  
+SF:     |     |RACE | MMBC Arms Factory  
+SG:     |     |RACE | MMBC Toy Factory  
+SI:     |     |RACE | Skybound Shrines  
+SL:     |     |RACE | Puppet Town  
+SN:     |     |RACE | Serpent Shrine  
+SO:     |     |RACE | Classic Space Pinball 
+SQ:     |     |RACE | New Space Pinball 
+SU:     |     |RACE | Mushroom Kingdom  
+SV:     |     |RACE | Winter Garden  
+SX:     |     |RACE | Inchworm Forest  
+SY:     |     |RACE | Ricco Harbor  
+SZ:     |     |RACE | Bowling Alley  
+T6:     |     |RACE | MK64 Mario Raceway  
+TA:     |     |RACE | Dinosaur Canyon  
+TE:     |     |RACE | Sunshine Coastline  
+TG:     |     |RACE | Angel Island  
+TH:     |     |RACE | Starlight  
+TI:     |     |RACE | Ice Cap   
+TJ:     |     |RACE | Lava Reef  
+TM:     |     |RACE | Bedroom Byway  
+TN:     |     |RACE | Penthouse Plaza  
+TO:     |     |RACE | Balloon Park  
+TS:     |     |RACE | Three seven speedway  
+TT:     |     |RACE | Tidal Town  
+TV:     |     |RACE | Thick Plaza  
+TX:     |     |RACE | Metro Marathon  
+U1:     |     |RACE | Liquidation Circuit  
+U2:     |     |RACE | Canyon Cascade  
+U3:     |     |RACE | Wave Dimension  
+U4:     |     |RACE | Ballistic Reef  
+U5:     |SPNT |RACE | Splashdown  
+U6:     |     |RACE | Hyudoro Hideaway  
+U8:     |     |RACE | Motobug Motorway  
+U9:     |     |RACE | Lubrication Lagoon  
+UA:     |     |RACE | Floral Dimension  
+UB:     |     |RACE | SMK Bowser Castle 3
+UD:     |     |RACE | Osiris Oasis  
+UL:     |     |RACE | Marble Zone 
+UM:     |     |RACE | Green Tropics Zone 
+UN:     |     |RACE | F-ZERO BIG Blue 
+UO:     |     |RACE | F-ZERO MUTE CITY 
+UP:     |     |RACE | Stardust Speedway Zone 
+UQ:     |     |RACE | VIRTUAL STADIUM 
+UR:     |     |RACE | Mushroom Hill Zone 
+US:     |     |RACE | Metallic Madness Zone 
+UT:     |     |RACE | Bellbridge Zone 
+UV:     |     |RACE | Cloudtop Spire  
+UW:     |     |RACE | Chartreuse Woods  
+UZ:     |     |RACE | Digital Botany  
+V8:     |     |RACE | Extreme Slope Drive 
+V9:     |     |RACE | GBA Bowser's Castle 3  
+VA:     |     |RACE | Magical Monolith  
+VB:     |     |RACE | Sweet Wonderland  
+VC:     |     |RACE | Submerged Shipwreck  
+VD:     |     |RACE | Cerulean Riviera  
+VE:     |SPNT |RACE | Ironbed River  
+VF:     |     |RACE | Sloppy Sludge  
+VG:     |     |RACE | MKR GBA Rainbow Road 
+VI:     |     |RACE | Magical Monolith Classic 
+VK:     |     |RACE | WiiU Excitebike Arena  
+VU:     |     |RACE | DKR Frosty Village 
+VV:     |     |RACE | 3DS Rock Rock Mountain 
+VZ:     |     |RACE | N64 Bowser Castle  
+W0:     |     |RACE | Steampunk Garden  
+W1:     |     |RACE | Sakura Serenity  
+W2:     |     |RACE | Mayship Marine  
+W3:     |     |RACE | Molten Mankind  
+W4:     |     |RACE | Outset Broadcast  
+W5:     |     |RACE | Jade Garden  
+W7:     |     |RACE | Indierock Rally  
+W8:     |     |RACE | Moonlit Aqueduct  
+WF:     |     |RACE | GOODTEK, My Beloved 
+WM:     |SPNT |RACE | DKR Tricky's Course 
+WR:     |     |RACE | Mighty Stadium  
+WS:     |     |RACE | Twinkle Village  
+WT:     |     |RACE | MKDS Luigi's Mansion 
+WU:     |     |RACE | Lakeview City  
+WV:     |     |RACE | Malachite Rainforest  
+WW:     |     |RACE | Wacky Workbench  
+WX:     |     |RACE | Cookie Country Classic 
+WY:     |     |RACE | Cookie Country  
+X0:     |     |RACE | Angel Arrow  
+X1:     |     |RACE | Resort Island  
+X7:     |     |RACE | Lovely Lab  
+X8:     |     |RACE | Hero Race  
+X9:     |     |RACE | Grub Pit  
+XA:     |     |RACE | Pandaemonium  
+XB:     |     |RACE | Gnome Forest  
+XE:     |     |RACE | ChronoShift  
+XF:     |     |RACE | Pengo Ice Pass  
+XI:     |     |RACE | Tower of Heaven  
+XJ:     |     |RACE | Crust Cove  
+XK:     |     |RACE | Greenhorne Garden  
+XL:     |     |RACE | Dusty Reign  
+XS:     |     |RACE | Windmill Isle  
+XT:     |     |RACE | Sky Temple  
+XX:     |     |RACE | Planet Laeau  Laile 
+Y0:     |     |RACE | Tiny Island  
+Y1:     |     |RACE | Crystal Caverns  
+Y2:     |     |RACE | VR_CORRUPTION  
+Y3:     |     |RACE | Hilltop Haunt   
+Y4:     |     |RACE | ZigZag Forest  
+Y5:     |     |RACE | Metal Harbor  
+Y6:     |     |RACE | Skeletal Sands  
+Y7:     |     |RACE | Thunder Circuit  
+Y8:     |     |RACE | Killer Skies  
+Y9:     |     |RACE | Diamond Dust Zone 
+YA:     |     |RACE | AQUA PLANET  
+YB:     |     |RACE | ANTE-STATION  
+YC:     |     |RACE | HEAVEN PASS  
+YD:     |     |RACE | NIGHTLIT WOODS  
+YE:     |     |RACE | STORM STATION  
+YG:     |     |RACE | Mushroom Spires  
+YV:     |     |RACE | Amigo's City  
+YW:     |     |RACE | Opal Coast  
+YX:     |     |RACE | Planet Wisp  
+YY:     |     |RACE | VB Raceway  
+ZG:     |     |RACE | Futuristic Boardwalk  
+ZH:     |SPNT |RACE | Windy Valley  
+ZI:     |     |RACE | Hysterical Trinket  
+ZJ:     |     |RACE | Forbidden Monolith  
+ZK:     |     |RACE | Flesh Paradise  
+ZM:     |     |RACE | Cosmic Rift Classic 
+ZN:     |SPNT |RACE | Motherlode Canyon  
+ZQ:     |     |RACE | Eientei Mansion  
+ZR:     |     |RACE | Astral Drop  
+ZU:     |     |RACE | MKDD DK Mountain
+
+HELL MAPS
+- Hell maps are not in the selectable track list, as they're intentionally terrible, have some sort of problem, or are unfinished/unpolished. However, they will appear if/when all players select "random" on the track voting/intermission screen.
+	- Hell maps can be teleported to with their IDs. Not all of them are completely awful, but a weird time is generally what to expect.
+
+D|HELL |SPNT |TYPE | NAME [returned 106 total maps]
+-----------------------------------
+44:HELL |     |RACE | CK Cloud Tops 2
+48:HELL |     |RACE | MKSC Sky Garden 
+50:HELL |     |RACE | MKSC Rainbow Road 
+51:HELL |     |RACE | SMK Donut Plains 1
+52:HELL |     |RACE | SMK Mario Circuit 2
+53:HELL |     |RACE | SMK Ghost Valley 2
+54:HELL |     |RACE | SMK Bowser Castle 3
+55:HELL |     |RACE | SMK Vanilla Lake 2
+83:HELL |     |RACE | UAC Racing Facility - Decent map, but demands a lot of skill.
+C0:HELL |     |RACE | Pale Shrine  
+C1:HELL |     |RACE | Methane Plumes  
+C3:HELL |     |RACE | MKDS test_circle  
+C9:HELL |     |RACE | Crisis City  
+CK:HELL |     |RACE | Square Quartet  
+CZ:HELL |     |RACE | Hcnar Nol Nol  
+D0:HELL |     |RACE | Backrooms  
+DO:HELL |     |RACE | Crackhead District  
+DY:HELL |     |RACE | CTGP Mushroom Peaks  
+E0:HELL |     |RACE | Jungle Fort Long  
+ED:HELL |     |RACE | Dinosaur Canyon  
+FE:HELL |     |RACE | Thundersnail - from Undertale.
+FG:HELL |     |RACE | Gay Energy  
+FH:HELL |     |RACE | Crazy Eights - Your dumbass friends will get confused.
+FN:HELL |     |RACE | Unist Hell  
+G9:HELL |     |RACE | Mille Marche  
+GY:HELL |     |RACE | Obsidian Oasis  
+H0:HELL |     |RACE | Crystal Abyss  
+H2:HELL |     |RACE | Arid Sands  
+H3:HELL |     |RACE | Volcanic Valley Classic 
+H4:HELL |     |RACE | Chemical Facility  
+H6:HELL |     |RACE | CK Cloud Tops 1
+H7:HELL |     |RACE | CK Dungeon Maze - This map is iconic for how emblematic of a hell map it is. Dark, confusing, anxiety-inducing. This map BLOWS.
+H8:HELL |     |RACE | Diamond Square Classic 
+H9:HELL |     |RACE | PWR Retro Maze - It's FUCKING PAC-MAN.
+HA:HELL |     |RACE | SRB2 Frozen Night 
+HB:HELL |     |RACE | Black Bliss  
+HC:HELL |     |RACE | FZ Silence - The hazards here are rough and annoying.
+HD:HELL |     |RACE | SMK Rainbow Road 
+HH:HELL |     |RACE | Blue Mountain Classic 
+HJ:HELL |     |RACE | Genocide City - Doesn't actually exist. 
+HM:HELL |     |RACE | Daytona Hell - Go fuck yourself.  
+HQ:HELL |     |RACE | Mansion of the Undead 
+IV:HELL |     |RACE | Elaborate Shitpost - HP Endurance map. Oh god, my eyes. 
+IW:HELL |     |RACE | a e s t h e t i c Touge - This magenta void will make you want to die.
+J3:HELL |     |RACE | Skyline Highway  
+J4:HELL |     |RACE | Special Trek  
+J5:HELL |     |RACE | Modern Southern Park 
+J6:HELL |     |RACE | Modern Northern Park 
+J7:HELL |     |RACE | Sea Temple  
+J8:HELL |     |RACE | Water Temple Classic 
+J9:HELL |     |RACE | CD Special Stage 2
+JA:HELL |     |RACE | Snowy Frolics Classic 
+JB:HELL |     |RACE | Burning Furnace Classic 
+JC:HELL |     |RACE | Forest Grove  
+JD:HELL |     |RACE | Aerial Sanctuary Classic 
+JK:HELL |     |RACE | Roundabout  
+JR:HELL |     |RACE | Red Mountain Classic 
+JT:HELL |     |RACE | Red Mountain  
+KD:HELL |     |RACE | SRB2 Metallic Hallways K
+KM:HELL |     |RACE | Disk Operating System 
+KY:HELL |     |RACE | Lake Margorite Classic 
+KZ:HELL |     |RACE | Verdant Raceway Classic 
+M2:HELL |     |RACE | Suburban Scramble  
+M8:HELL |     |RACE | Final Mall 
+MD:HELL |     |RACE | Bell Tower 
+MG:HELL |     |RACE | Vanilla Iceberg 
+MM:HELL |     |RACE | Euro Mountain Classic 
+MU:HELL |     |RACE | Funny Avenue - Not funny, didn't laugh. 
+MX:HELL |     |RACE | Desert Rift Classic 
+MY:HELL |     |RACE | Conveyor Conundrum 
+MZ:HELL |     |RACE | NEO Test Track 
+O7:HELL |     |RACE | Route Three-One  
+OK:HELL |     |RACE | Pridemoor Classic  
+P6:HELL |     |RACE | SIK Fortune Night 
+PE:HELL |     |RACE | Cosmic Eclipse Classic 
+PG:HELL |     |RACE | Super Rainbow Road 
+PI:HELL |     |RACE | Monster Monarch Classic 
+PJ:HELL |     |RACE | SMK Rainbow Road 
+PM:HELL |     |RACE | Cyber Scramble  
+PP:HELL |     |RACE | Yoshi Island - Why does this map have 5 laps? 
+RO:HELL |     |RACE | Final Tower  
+RP:HELL |     |RACE | Golf - It's...golf from Pizza Tower. Like, in its entirety. Impressive, but not a race.
+RQ:HELL |     |RACE | VS Pizzaface  
+RW:HELL |     |RACE | Ring Race  
+S3:HELL |     |RACE | Shivering Night  
+S4:HELL |     |RACE | MKDS test_circle  
+S8:HELL |     |RACE | Horrible roundabout  
+SJ:HELL |     |RACE | Vanilla Zig Zag - Everything terrible about SMK Ice Levels cranked to 11.
+TQ:HELL |     |RACE | Traumatic Titanic Classic 
+TY:HELL |     |RACE | SRB2K Mushroom Plunge 
+UF:HELL |     |RACE | SERAPH Speedway  
+UI:HELL |     |RACE | EKDS Melancholic Dystopia 
+UJ:HELL |     |RACE | Explicit Word Track 
+VH:HELL |     |RACE | Submerged Shipwreck Mini - Tiny map that makes you turn around midair...and also turns off the lights.
+VJ:HELL |SPNT |RACE | Touge - It's a motherfucking kaizo level in kart. I fucking can't. 
+WG:HELL |     |RACE | Spiral Crazy R  
+WI:HELL |     |RACE | Hellsert Bus R Classic - It's accurate Desert Bus. Honestly kinda charming, tbh. Encore is a bop.
+WQ:HELL |     |RACE | Entryway - It's fucking Doom 2 E1M1.
+XH:HELL |     |RACE | ChronoShift CLASSIC 
+XY:HELL |     |RACE | Climb The Stairs  
+XZ:HELL |     |RACE | Trust The Lift  
+YF:HELL |     |RACE | V2.0.X SPECIAL STAGE  K
+YH:HELL |     |RACE | ANTE-STATION CLASSIC 
+ZL:HELL |     |RACE | Flesh Eden  
+ZP:HELL |     |RACE | FZ Death Wind 2  
+ZZ:HELL |     |RACE | Unused Podium Map

@@ -1,0 +1,160 @@
+                 _             __                      __                  ___ _        ____    _____ 
+  /\ /\__ _ _ __| |_ ___    /\ \ \_____   _____ _ __  / _\ __ _ _   _     /   (_) ___  |___ \  |___ / 
+ / //_/ _` | '__| __/ __|  /  \/ / _ \ \ / / _ \ '__| \ \ / _` | | | |   / /\ / |/ _ \   __) |   |_ \ 
+/ __ \ (_| | |  | |_\__ \ / /\  /  __/\ V /  __/ |    _\ \ (_| | |_| |  / /_//| |  __/  / __/ _ ___) |
+\/  \/\__,_|_|   \__|___/ \_\ \/ \___| \_/ \___|_|    \__/\__,_|\__, | /___,' |_|\___| |_____(_)____/ 
+                                                                |___/                                 
+
+For the love of God, please read this whole thing. It answers so many questions you might have and I've tried to make it as clear and concise as possible.
+
+This update is still missing things, but if Kart KRew can put out a new version without proper playtesting, so can I.
+
+Thank you to everyone who's made this possible!!
+
+Before you ask anything related to setup of the unmodified game, consult the
+-------> UNOFFICIAL SRB2 KART FAQ: https://hyuu.cc/faq/ <-------
+Everything else in this document is for this custom build. There's probably some repeated info, but whatever.
+
+--- CONTROLS & INITAL SETUP - VERY IMPORTANT ---
+
+SRB2 Kart is best played with a controller. It natively detects a lot of them without passing them through something like Steam input or DS4Windows.
+
+To retain your controls if you set them up in the previous version, grab the "kartconfig.cfg" file from the root folder of your old installation and drag it into the new installation.
+The new install doesn't come with a kartconfig, and will boot to default settings (and create a new one) if you do not transfer it over.
+
+You can also use the "SRB2Kart Launcher - First-Time Recommended Settings.bat" file, to boot kart with some reccommended settings to make your kart experience smoother. Afterwards you can just boot the "srb2kart.exe" normally.
+
+Saturn introduces a TON of cool customization options in the "Saturn Options" part of the settings. Stuff like screen tilt, HUD customization, colorization, and other cool aesthetic changes. Take a moment and check them out!
+
+I highly recommend you take a moment to configure your controls and mess around with some settings; there's a lot of stuff to customize in this build!
+
+
+--- HOSTING A SERVER ---
+
+Using "SRB2Kart Launcher - Mods & Server Host.bat", you can boot the game with all the addons and server settings loaded (this also sets you as the admin of the server). You can use this to practice or host your own games, since SRB2 1.6 has auto-portforwarding and Discord invite support. I still recommend forwarding your port, because the holepunch isn't perfect.
+
+You can find a guide for that here: https://www.jameds.org/portforward/
+
+If you have problems with Discord recognizing Kart:
+
+Within SRB2Kart... 
+• Go to Options → Data options... → Discord options... → make sure "Rich Presence" is on.
+• ALTERNATIVELY: Use the "discordrp on" console command. 
+
+Within Discord... 
+• You will need to use desktop Discord. Rich Presence DOES NOT work on web browsers or mobile devices.
+• While Kart is open, go to User settings → Registered games → blue "Add it!" button → add "SRB2Kart v1.5" as a game. 
+• Go to User settings → Activity privacy → enable "Display current activity as a status message".
+• You may need to reload Discord afterwards by pressing Ctrl+R.
+
+Past that, god help you.
+
+
+--- KNOWN ISSUES/QUIRKS ---
+
+- Input lag is a thing, you're gonna have to get over it.
+- Reminder that you only need to launch the "first time setup" .bat once!
+- The game can and will crash at random with segment violations and stuff. That's normal, just restart.
+- If you boot the server with the .bat file, make sure not to let the demo play after the title screen. This will disable all of the server configurations and you will have to restart.
+- Remember, in order to join a server, launch the game raw from the exe. Don't use any of the .bat files. If you get disconnected from the server, you have to restart the client before joining again.
+- i've gay
+- Sometimes you just die. Maps are made by random people who may or may not be pros at design.
+
+
+--- Command Line Stuff ---
+
+Pressing the `(tilde) key will open the console when in-game/the server. 
+You can then play with some cool commands:
+
+-MISC COMMANDS - 
+	
+	map (ID/Name) - (Server admin only!!) Teleports you to the map with that ID, always 2 characters. Most maps also support being teleported to by name (IE: Daytona).
+		- I've included a complete list of race maps and their IDs: "MapIDs 2.3.txt". 
+	xitemdebugitem (#) - (Server admin only!!) Sets your item button to spawn the item with the provided ID or name (its 1-20-something iirc). Putting in 0 disables it again. Good for testing items.
+	showitemtimers (on/off) - Enables timers for boosts and other stuff at the bottom of your screen. Helpful for practice! (disabled by default since its kind of distracting)
+	t_trickbtn: Change the button used to perform a trick (t_trickbtn DRIFT or t_trickbtn BRAKE or t_trickbtn CUSTOM). Trick button is set to BRAKE by default.
+
+
+-RESTAT - changes your kart's speed and weight.
+
+	restat "1-9" "1-9": Set your stats. The first number is your desired speed, the second number is your weight.
+	restat "name of skin": Set your stats to the stats of that character, if they're loaded on the server. (IE: Sonic)
+	restat random: Set your stats to random values.
+	restat off: Set your stats to the default stats of your character.
+
+
+-RANDOMIZE - self-explanitory
+
+	randomskin: Pick a random skin. Only works if you would normally be able to change your skin.
+	randomcolor: Pick a random color. Only works if you would normally be able to change your color.
+	ironman: Toggle IRONMAN mode, which randomizes your character and color at the start of every round.
+	
+	
+-APPEAR & DUB
+Type "appear [character internal name] [appearance name]" to change to alt skins!
+Type "dub [character internal name] [dub name]" to change the voices!
+
+- Both of these variables have info text about how to use them if you just type "appear" or "dub" as a command.
+	Both of these options' settings are also saved clientside in the "luafiles" folder, so they will persist through every reboot until you reset them back to "default". If you need to double-check the internal skin names for characters, you can consult the "Full Character List and Reference.txt".
+
+-HORNMOD - the best mod
+
+	horn: Will display your horn info and a list of commands. Most are self-explanitory.
+	listhorns "page number": Displays the list of horns by page number.
+	sethorn "number": Sets your horn to the horn with the ID provided. You can also type the name of the horn, or a word in the name and it'll attempt to search for it.
+	resethorn - self-explanitory
+	horn_unleashhell (on/off) - Lets hell horns be selectable with sethorn.
+
+	
+-MAPLIST - Displays loaded maps.
+	
+	listmaps - By itself will display a brief help text describing arguments that the command can take. The command can take any number of arguments separated by spaces. Use the following arguments to control what the command returns:
+		hell - Shows only hell maps.
+		-hell - Hides hell maps.
+		gametype - Use one of the following gametypes to show only maps configured for that type of match: race, battle, solo. You can also use -race, -battle, and -solo to hide those maps configured for the specified gametype instead.
+		sort: - Sorts the resulting list of maps by a particular attribute you specify. Valid sort attributes:
+			sort:id - Sorts by map ID number (default).
+			sort:name - Sorts by map name A-Z.
+			sort:gametype - Sorts by gametype (due to how gametypes are structured, they will be sorted solo -> race -> battle).
+			sort:sprint - Sorts by sprint (A to B) track status, with sprint tracks first and non-sprint tracks after.
+			sort:hell - Sorts by hell map status, with hell maps first and non-hell maps after.
+
+		
+-CHARACTER UTILITIES - For testing characters. Useful for if you're trying to make your own kart!
+
+	cu_playhitemsound - Makes your character play their hitconfirm sound.
+	cu_playwinsound - Makes your character play their victory sound (top half in a race).
+	cu_playlosssound - Makes your character play their loss sound (bottom half in a race).
+	cu_playovertakesound - Makes your character play their overtake sound, used when passing another racer.
+	cu_hurtme - Spins out your character.
+	cu_crushme - Crushes your character.
+	cu_spawngoalpost - Spawns a goalpost set to your character's goal post graphic above you, which will fall down and render your character's goal art.
+		
+-AUTO TOURNEY ORGANIZER - Set a sequence of maps to play uninterrupted!
+
+	ATO lets you tell Kart to play several maps in succession without going to the vote screen. It'll also keep track of players' scores during the sequence, like, y'know, a tournament. Obviously this can be used for actual events as well as just a "hey let's play these tracks" kind of thing. Recommend turning off FriendMod before using this, but it totally works with teams, too.
+		ATO_StartSet [MAPID1] [MAPID2] [etc] - Begins a tournament set that runs through the specified maps following the command. You can enter any amount of map IDs following the command, the set will run through all of them. The list of upcoming maps will be displayed after the command is validated and the set has begun in the console.
+		
+		ATO_StartRandomSet [Number of maps to play] - Same as above, but will still allow voting to select specified number of maps, counting them as the "tourney". Can also be used with "advancemap 2" to have it choose maps by itself.
+
+		ATO_ShowSetMaps - Shows a printout of upcoming maps in the active tournament set, provided they've been defined by ATO_StartSet.
+
+		ATO_ClearSet - Stops an active tournament set and resets all associated flags. Players are notified via chat announcement.
+
+		ATO_ClearScores - Simple command for clearing score counts.
+
+		ATO_PausingOnSetEnd [On (Default) /Off] - Determines if ATO should automatically pause the server at the last second of the results screen for the last map in a set. Useful for tallying scores, but here if you want to turn it off.
+
+
+-HURRYUP - Finish the race in style!
+
+	You know that 30 second timer that appears when the top half of players have crossed the finish line and are waiting for the rest to get there? Now it's a bit more snazzy, with some speedlines and "pinch" music. There's 15 tracks that can play randomly when the state begins.
+		hu_enable [on/off] - self explanitory
+		hu_hurrytunes - lets you choose a specific theme to play from the ones we have, or "random" to set it to random.
+		Tunes: 	"SonicBTS", "SonicBTS2", "SonicAdvance2", "Sonic4", "HedgehogMusic", "SonicTheFighters", "Cuphead", "FallenStar", "PlokOverdrive", "SnKAlt", "ByeByeThere", "Undefeatable", "BomberBarbara", "Kirby64", "MIKUUU"
+
+		
+-FRIENDMOD - 
+
+	Team Battles for Kart! Splits the lobby into two teams for some casually competitive flair. Features random team names and just a bunch of fun cute stuff.
+		fr_enabled (on/off) [default is on] Can be used to disable or enable the mod. Will need to be disabled when using ATO, since ATO will default to team mode if it's on.
