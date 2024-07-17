@@ -1,3 +1,2 @@
 *.kart filter=lfs diff=lfs merge=lfs -text
 srb2.srb filter=lfs diff=lfs merge=lfs -text
-Karts[[:space:]]Never[[:space:]]Say[[:space:]]Die[[:space:]]v2.3/downloads/** filter=lfs diff=lfs merge=lfs -text
