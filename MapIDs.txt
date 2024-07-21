@@ -613,3 +613,5 @@ YH:HELL |     |RACE | ANTE-STATION CLASSIC
 ZL:HELL |     |RACE | Flesh Eden  
 ZP:HELL |     |RACE | FZ Death Wind 2  
 ZZ:HELL |     |RACE | Unused Podium Map
+
+If you read this whole file, you're gay.
