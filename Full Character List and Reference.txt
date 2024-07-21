@@ -76,6 +76,7 @@ Internal Name   	|  Display Name
 [eggman         	] Dr. Eggman
 [ena            	] Ena
 [eunie  			] Eunie
+[fed				] Fed
 [flonne         	] Flonne
 [freeza2nd			] Freeza
 [frog_in_a_car  	] Frog in a Car
@@ -278,7 +279,6 @@ Internal Name		| Appear Name
 [bob				] "Scoot"
 [bowser				] "DIC"
 [bulborb			] "wraith"
-[chainchomp			] "BulletBill"
 [crash_b			] "Coco"
 [cosmo				] "Maria"
 [darkmatter			] "Ball"
