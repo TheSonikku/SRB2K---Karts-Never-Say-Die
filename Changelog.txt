@@ -1,6 +1,8 @@
---- Changelog- Ver 2.3b ---
+--- Changelog- Ver 2.4b ---
 
 - Moved changelog to its own file due to all your fucking bitching.
+
+- WE ARE NOW USING GITHUB. Sonikku has written a program to do updates through github instead of having to deal with SRB2K's native downloading/my constant updating. Instructions for it are in the "NOT OPTIONAL INSTRUCTIONS" text file.
 
 - We're still using Saturn as the modified SRB2K Client. More info if you need it in the "Optional Kart Stuff" folder. 
 - The VR Client is still included. Requires some minor setup, there's a readme for it in the "Optional Kart Stuff" folder.
@@ -8,43 +10,21 @@
 - BattlePlus is included, but we've found it's not fully set up! Working non fixing it, will release a patch with that later
 	- Full documentation here: https://mb.srb2.org/addons/srb2kart-battle-plus-kl_bp-v2-0-pk3.2350/
 
-- Added AntiLapGrief - Lapped racers are unable to be smacked by growth or invincibility. I added this because getting lapped is already bad enough.
+- Fixed the Shrink potion and made it more rare.
+- Fixed the Blue Spring and made it more rare.
+- Modified Takkon to make him rarer and his item cooldown longer.
 
-- Added more maps and fixed some map conflicts.
+- Character Changes:
 
-- Re-Enabled the Magnet and Pipe - I've adjusted their item odds so they're not fucking obnoxious anymore. IE: They're rare.
-- Fixed the Blue Shell - It's no longer an SPB replacement, and is suitably rare.
-- Added the Blue Spring! - It's a spring, you can use it to hop forward, back, or up. I advise not throwing it backwards.
-- Added Takkon! - He's like the Blooper from Mario Kart, he puts ink all over your screen and makes you slippery for 10 seconds. You can speed up or wash off to get it off you quicker. He's fairly rare as well, so you hopefully won't see him every race.
-
-- Added the Lethal Company Crewmate! - A very well done custom kart for him. Had to add him.
-- Added Vanellope Von Schweetz. barefoot stomp on camera.
-- Added Black Doom. He's here to convince you to do sin.
-- Added Cola (Colacoot's OC). Ma'am, your boobs are hanging off the signpost.
-- Added Fed (Sonikku's OC). We have like, a brazillion characters now.
-- Consolidated a few characters into alternate appearances/dubs for other characters and added a handful new ones:
-
-Beat is now an alt appearance and dub for Gum.
-Swapped Dark Matter's default look to be Swordsman. Ball is now the alt appearance.
-Real Hornet is now an alt appearance for Hornet.
-Lightning McQueen is now an alt appearance and dub for Putt-Putt.
-Coco Bandicoot is now an alt appearance and dub for Crash.
-The Water Wraith is now an alt appearance and dub for Bulborb.
-Gamma Car is now an alt appearance for Gamma.
-Baba (Feet) is now an alt appearance for Baba and Keke.
-Bike Pyra is now an alt appearance for Pyra.
-Added a second Papyrus alt appearance for Sans based on CoolSkeleton95.
-Medic, Soldier, Demoman, and Scout are now alt appearances and dubs for Heavy.
-Chell is now an alt appearance for Neopolitan.
-Toaster Aigis is now an alt appearance for Aigis.
-Mephiles is now an alt appearance and dub for Infinite.
+Updated a few karts to have their appearances from Ring Racers.
+Removed models for a few characters.
 Tikal is now an alt appearance and dub for Chaos.
-Echo is now an alt appearance and dub for Neo.
-Metal Knuckles is now an alt appearance and dub for Metal Sonic.
-Peppino now has an alt appearance where he's in a Kart (and 3D).
+Majora now has a dub for her original voice (Grey).
+Robit now has a dub for Scoria.
+Oracle (Daiidalus OC) is now an alt for Bunnie Rabbot.
 
 You can find a complete list of characters, alts, and dubs in the "Full Character List and Reference.txt" file.
 
-We are at nearly max slots again. Going forward, if you would like to have a character added, consider that there is the option to add them as an alt skin and dub.
+We are at nearly max slots again. Going forward, if you would like to have a character added, consider that there is the option to add them as an alt skin and dub for another character we already have.
 
 - Remember that a secret function has been added to CUSTOM ACTION 1. Legends say that utilizing it has something to do with the power of "duos" and "pairs". Maybe try double-tapping it sometimes?

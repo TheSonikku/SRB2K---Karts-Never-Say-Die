@@ -1,13 +1,13 @@
-                 _             __                      __                  ___ _        ____    _____ 
-  /\ /\__ _ _ __| |_ ___    /\ \ \_____   _____ _ __  / _\ __ _ _   _     /   (_) ___  |___ \  |___ / 
- / //_/ _` | '__| __/ __|  /  \/ / _ \ \ / / _ \ '__| \ \ / _` | | | |   / /\ / |/ _ \   __) |   |_ \ 
-/ __ \ (_| | |  | |_\__ \ / /\  /  __/\ V /  __/ |    _\ \ (_| | |_| |  / /_//| |  __/  / __/ _ ___) |
-\/  \/\__,_|_|   \__|___/ \_\ \/ \___| \_/ \___|_|    \__/\__,_|\__, | /___,' |_|\___| |_____(_)____/ 
-                                                                |___/                                 
+                 _             __                      __                  ___ _        ____   _  _   _     
+  /\ /\__ _ _ __| |_ ___    /\ \ \_____   _____ _ __  / _\ __ _ _   _     /   (_) ___  |___ \ | || | | |__  
+ / //_/ _` | '__| __/ __|  /  \/ / _ \ \ / / _ \ '__| \ \ / _` | | | |   / /\ / |/ _ \   __) || || |_| '_ \ 
+/ __ \ (_| | |  | |_\__ \ / /\  /  __/\ V /  __/ |    _\ \ (_| | |_| |  / /_//| |  __/  / __/ |__   _| |_) |
+\/  \/\__,_|_|   \__|___/ \_\ \/ \___| \_/ \___|_|    \__/\__,_|\__, | /___,' |_|\___| |_____(_) |_| |_.__/ 
+                                                                |___/                                       
 
 For the love of God, please read this whole thing. It answers so many questions you might have and I've tried to make it as clear and concise as possible.
 
-This update is still missing things, but if Kart KRew can put out a new version without proper playtesting, so can I.
+This update is still missing things, but if Kart Krew can put out a new version without proper playtesting, so can I.
 
 Thank you to everyone who's made this possible!!
 
@@ -27,6 +27,15 @@ You can also use the "SRB2Kart Launcher - First-Time Recommended Settings.bat" f
 Saturn introduces a TON of cool customization options in the "Saturn Options" part of the settings. Stuff like screen tilt, HUD customization, colorization, and other cool aesthetic changes. Take a moment and check them out!
 
 I highly recommend you take a moment to configure your controls and mess around with some settings; there's a lot of stuff to customize in this build!
+
+
+--- GITHUB UPDATER ---
+
+Sonikku has written a wonderful little EXE that automatically updates your Kart build with any changes we make without having to mess around with patch zips and SRB2K's native downloader refusing to overwrite files.
+
+Simply double-click the "knsd_updater.exe" and it will check your installation for any files that need to be updated. It SPECIFICALLY won't touch your kartconfig.cfg file either, so there's no more messing around with that file through installations.
+
+It's so simple, in fact, that I'll be extremely disappointed when one of you messes it up somehow.
 
 
 --- HOSTING A SERVER ---
@@ -53,12 +62,12 @@ Past that, god help you.
 --- KNOWN ISSUES/QUIRKS ---
 
 - Input lag is a thing, you're gonna have to get over it.
-- Reminder that you only need to launch the "first time setup" .bat once!
+- Reminder that you only need to launch the "first time setup" .bat once if needed!
 - The game can and will crash at random with segment violations and stuff. That's normal, just restart.
-- If you boot the server with the .bat file, make sure not to let the demo play after the title screen. This will disable all of the server configurations and you will have to restart.
+- If you boot the server with the .bat file with the intent to host, make sure not to let the demo play after the title screen. This will disable all of the server configurations and you will have to restart.
 - Remember, in order to join a server, launch the game raw from the exe. Don't use any of the .bat files. If you get disconnected from the server, you have to restart the client before joining again.
 - i've gay
-- Sometimes you just die. Maps are made by random people who may or may not be pros at design.
+- Sometimes you just die. Maps are made by random people who may or may not be pros at design. You gotta get over that, too.
 
 
 --- Command Line Stuff ---
