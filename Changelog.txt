@@ -21,7 +21,7 @@ Removed models for a few characters.
 Tikal is now an alt appearance and dub for Chaos.
 Majora now has a dub for her original voice (Grey).
 Robit now has a dub for Scoria.
-Oracle (Daiidalus OC) is now an alt for Bunnie Rabbot.
+Attempted to fix some sprite conflicts.
 
 You can find a complete list of characters, alts, and dubs in the "Full Character List and Reference.txt" file.
 
