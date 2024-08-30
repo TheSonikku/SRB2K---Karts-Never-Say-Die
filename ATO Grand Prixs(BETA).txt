@@ -35,7 +35,7 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 - ATO_StartSet maps2 mapr5 mapf9 mappa
 
 "Cyberspace" Cup*
-- ATO_StartSet map71 mapuz map39 mapy2 mapfb mapa4
+- ATO_StartSet map71 mapuz map39 mapy2 mapfb mapa4 mapvr
 
 "NASCAR" Cup
 - ATO_StartSet map05 mapts mapta mapvf mapml mapmn
