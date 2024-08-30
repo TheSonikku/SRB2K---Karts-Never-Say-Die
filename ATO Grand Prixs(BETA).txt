@@ -1,39 +1,66 @@
-"Icing on the Cake" Cup
+Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
+* indicates a finished Grand Prix
+
+"Icing on the Cake" Cup*
 - ATO_StartSet mapvb mapid mapdp mapjw mapmo
 
 "It's GRAND METROPOLIS" Cup
-- ATO_StartSet map10 maprb mapc5 mapfb
+- ATO_StartSet map10 maprb
 
-"Sparkle" Cup
-- ATO_StartSet mapvg mappg mapjp mapkp
+"Sparkle" Cup*
+- ATO_StartSet mapjj mapvg mappg mapkp mapjp mape9
 
 "KEEP GAMBLING" Cup
 - ATO_StartSet map22 mapvd mapoe
 
-"Night Driving" Cup
-- ATO_StartSet mapbt mapyd mapk0 mapk4 mapw8
+"Night Driving" Cup*
+- ATO_StartSet mapr2 mapbt mapyd mapk0 mapk4
+
+"Strike the Earth" Cup*
+- ATO_StartSet mapda mapdb mapdc mapdd mapde maplt maply maplw maplx mapmj
 
 "Volcano" Cup
-- ATO_StartSet mapjm
+- ATO_StartSet mapjm mapfx mapk7 mapd7 mapi8
 
-"Autumn Afternoon" Cup
-- ATO_StartSet mapku maprj
+"WELCOME TO MARIO KART" Cup*
+- ATO_StartSet mapt6 mapjv mapsk mapwt mapvz mapn6
+
+"Autumn Afternoon" Cup*
+- ATO_StartSet mapk2 mapku map77 maprj mapw1
 
 "Shoreline Scrambles" Cup
-- ATO_StartSet mapr2
+- ATO_StartSet mapr2 mapjo mapln
 
 "A G E S" Cup
-- ATO_StartSet maps2
+- ATO_StartSet maps2 mapr5 mapf9 mappa
 
-"Cyberspace" Cup
-- ATO_StartSet mapyt mapmk
+"Cyberspace" Cup*
+- ATO_StartSet map71 mapuz map39 mapy2 mapfb mapa4
 
 "NASCAR" Cup
+- ATO_StartSet map05 mapts mapta mapvf mapml mapmn
+
+"VIRTUAL INSANITY" Cup 
+- ATO_StartSet mapeb mape8 map78 mape1 mapea mapwf
+
+"Sonic Adventure" Cup
+- ATO_StartSet mapv5 map42 map29 mapn9 mapx8 map15 map14
+
+"Anxious Italian" Cup
+- ATO_StartSet mapaz map73 mapxb mapxj mapry mapsq mapgr mapiz
+
+"Electro Rave" Cup
+- ATO_StartSet mapw4 mapmaplr mapgn mapgw mapir
+
+"Robotnik" Cup
+- ATO_StartSet map06 mapzo map40 mapu4 mapkx mapre mapmp
+
+"Cosmic Catastrophe" Cup
 - ATO_StartSet 
 
-"TWINKLE PAHRK" Cup
-- ATO_StartSet 
+"Sonic Advance 2" Cup*
+- ATO_StartSet mapgu mapg4 maplu mapg3 mapg7 maplu mapgx mapw9
 
-"Little" Cup
-- ATO_StartSet 
+"Triforce" Cup
+- ATO_StartSet mapns mapnv mapnt mapcw
 
