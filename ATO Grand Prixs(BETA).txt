@@ -4,8 +4,8 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 "Icing on the Cake" Cup*
 - ATO_StartSet mapvb mapid mapdp mapjw mapmo
 
-"It's GRAND METROPOLIS" Cup
-- ATO_StartSet map10 maprb
+"Warehouse" Cup*
+- ATO_StartSet mapf1 mapmb mapdu map87
 
 "Sparkle" Cup*
 - ATO_StartSet mapjj mapvg mappg mapkp mapjp mape9
@@ -44,7 +44,7 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 - ATO_StartSet mapeb mape8 map78 mape1 mapea mapwf
 
 "Sonic Adventure" Cup
-- ATO_StartSet mapv5 map42 map29 mapn9 mapx8 map15 map14
+- ATO_StartSet mapv5 map42 map29 mapn9 mapx8 map15 map14 mapzh
 
 "Anxious Italian" Cup
 - ATO_StartSet mapaz map73 mapxb mapxj mapry mapsq mapgr mapiz

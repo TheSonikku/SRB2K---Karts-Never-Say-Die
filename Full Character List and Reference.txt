@@ -45,7 +45,6 @@ Internal Name   	|  Display Name
 [carl           	] Carl
 [carol   	    	] Carol
 [caterkiller    	] Caterkiller
-[chainchomp     	] Chain Chomp
 [chaos 				] Chaos Zero
 [chiaki         	] Chiaki Nanami
 [chibinaoto 		] Chibi Naoto
@@ -183,6 +182,7 @@ Internal Name   	|  Display Name
 [pyra   			] Pyra
 [queen_dr    		] QUEEN
 [rabbid         	] Rabbid
+[rainbowdash        ] Rainbow Dash
 [ramiel       		] Ramiel
 [reankart   		] Rean Schwarzer
 [retro_pikachu		] Retro Pikachu
@@ -227,6 +227,7 @@ Internal Name   	|  Display Name
 [stink        		] Stink
 [surgeidw			] Surge
 [susiehaltmann		] Susie Haltmann
+[sybil 	        	] Sybil
 [swatbot       		] Swat-Bot
 [sweetjp    		] Sweet JP
 [t-54         		] T-54

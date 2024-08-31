@@ -33,9 +33,12 @@ I highly recommend you take a moment to configure your controls and mess around 
 
 Sonikku has written a wonderful little EXE that automatically updates your Kart build with any changes we make without having to mess around with patch zips and SRB2K's native downloader refusing to overwrite files.
 
-Simply double-click the "knsd_updater.exe" and it will check your installation for any files that need to be updated. It SPECIFICALLY won't touch your kartconfig.cfg file either, so there's no more messing around with that file through installations.
+Make sure the updater is in the directory with the KSND folder like it was when you opened the zip file.
+Then simply double-click the "knsd_updater.exe" and it will check your installation for any files that need to be updated. It SPECIFICALLY won't touch your kartconfig.cfg file either, so there's no more messing around with that file through installations.
 
-It's so simple, in fact, that I'll be extremely disappointed when one of you messes it up somehow.
+There is a chance that the updater will not work. In that case, run the "Git-2.46.0-64-bit.exe". This will install the git library dependencies on your machine, which many official games would normally do without telling you. Be sure to deselect "windows explorer integration" when you see it if you wanna avoid cluttering your context menu. Leave all other settings to their defaults.
+
+The updater should run after it's finished (and any future games you play that use Git as a dependency will not have to install it secretly).
 
 
 --- HOSTING A SERVER ---
