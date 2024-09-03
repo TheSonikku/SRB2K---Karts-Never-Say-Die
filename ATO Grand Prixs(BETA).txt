@@ -50,7 +50,7 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 - ATO_StartSet mapaz map73 mapxb mapxj mapry mapsq mapgr mapiz
 
 "Electro Rave" Cup
-- ATO_StartSet mapw4 mapmaplr mapgn mapgw mapir
+- ATO_StartSet mapw4 maplr mapgn mapgw mapir
 
 "Robotnik" Cup
 - ATO_StartSet map06 mapzo map40 mapu4 mapkx mapre mapmp
