@@ -1,6 +1,9 @@
 Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 * indicates a finished Grand Prix
 
+"SPOOKY" Cup
+- ATO_StartSet 
+
 "Icing on the Cake" Cup*
 - ATO_StartSet mapvb mapid mapdp mapjw mapmo
 

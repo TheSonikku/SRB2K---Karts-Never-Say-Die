@@ -19,8 +19,9 @@
 Updated a few karts to have their appearances from Ring Racers.
 Removed models for a few characters.
 Tikal is now an alt appearance and dub for Chaos.
+Sonic.Exe is now an alt appearance and dub for Sonic (Exe).
 Majora now has a dub for her original voice (Grey).
-Robit now has a dub for Scoria.
+Robit now has a dub for (Scoria) and her original voice (Aero).
 Kasane Teto is now an alt appearance and dub for Miku.
 Attempted to fix some sprite conflicts.
 
