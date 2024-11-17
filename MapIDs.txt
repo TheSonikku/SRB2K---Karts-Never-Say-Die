@@ -91,6 +91,7 @@ BW:     |     |RACE | Howling Bogs
 BY:     |     |RACE | Brimstone Ruins  
 BZ:     |     |RACE | Golden Passage WL4 
 C5:     |     |RACE | Cannon Course  
+CC:     |     |RACE | Crash Cove
 CE:     |     |RACE | MKSC Boo Lake  
 CF:     |     |RACE | Standoff Saloon  
 CM:     |     |RACE | Crispy Canyon   
