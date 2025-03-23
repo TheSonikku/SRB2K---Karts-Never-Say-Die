@@ -1,16 +1,18 @@
---- Changelog- Ver 2.5 ---
+--- Changelog- Ver 2.5(b) ---
 
 - Saturn was updated to v7. Shitload of bugfixes and stability things in their changelog: https://github.com/Indev450/SRB2Kart-Saturn/releases/tag/v7.2
 
-- Added (and deactivated now because it's November) the Halloween-theming pack. It's in the downloads and you can manually apply it by editing the "server host" bat if you desperately want the spooky title screen.
+- Added (and deactivated now because it's passed) the Halloween-theming pack. It's still in the downloads folder and you can manually apply it by editing the "server host" bat if you desperately want the spooky title screen.
 
 - Fixed an issue with the Blue Shell cooldown not being long enough.
 - Changed Shrink Potion odds (appears near the middle of the pack more)
 
 - Added Crash Cove, a CTR map made by Cola!
+- Added Papu's Pyramid, a CTR map made by Cola!
 - Also added several map fixes done by Cola.
 
 - Added Mist's OC Jamie as a dub and appearance for Tails.
+- Added Scoria as a dub and appearance for Robit. The appearance only gives her a 3D model for now.
 
 - Continued investigation on issues with 3D models and alt appearances. Characters that have a model, but the last frame is not their goal sign will display their crush sprite on the sign. Fixes ongoing.
 

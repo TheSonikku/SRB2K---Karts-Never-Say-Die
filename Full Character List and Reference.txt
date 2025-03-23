@@ -303,6 +303,7 @@ Internal Name		| Appear Name
 [pim&charlie		] "Gwimbly"
 [puttputt			] "Lightning"
 [pyra				] "Bike"
+[robit				] "Scoria"
 [rouge				] "AgentRouge"
 [sally				] "SatAM"
 [sans				] "Papyrus"
