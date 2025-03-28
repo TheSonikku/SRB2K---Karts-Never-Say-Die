@@ -13,6 +13,11 @@
 
 - Added Mist's OC Jamie as a dub and appearance for Tails.
 - Added Scoria as a dub and appearance for Robit. The appearance only gives her a 3D model for now.
+- Added Oracle as a dub and appearance for Cola.
+
+- Removed the Gagmicrophone. I hate it.
+- Removed the Shrink Potion. Trash. Useless. Why did it even exist?
+- Reverted the Magnet to its old version.
 
 - Continued investigation on issues with 3D models and alt appearances. Characters that have a model, but the last frame is not their goal sign will display their crush sprite on the sign. Fixes ongoing.
 
