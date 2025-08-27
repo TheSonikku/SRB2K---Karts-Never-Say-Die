@@ -31,7 +31,6 @@ Internal Name   	|  Display Name
 [billyh         	] Billy Hatcher
 [blaze 				] Blaze
 [blackdoom 			] Black Doom
-[blitztank      	] Blitztank
 [bob            	] Bob
 [bomberman  		] BomberMan
 [bowser     		] Bowser
@@ -235,6 +234,7 @@ Internal Name   	|  Display Name
 [tangle        		] Tangle
 [team_rocket  		] Team Rocket
 [terry      		] Terry
+[tennahd      		] Tenna
 [theflea      		] The Flea
 [tiefighter 		] TIE/In
 [tifa   			] Tifa Lockhart

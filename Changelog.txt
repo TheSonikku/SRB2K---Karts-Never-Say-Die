@@ -1,3 +1,13 @@
+--- Changelog- Ver 2.6 ---
+
+- Saturn was updated to v8.3. Saturn Devs are cannibalizing Ring Racers' modern lua codes and I am here for it. Here's the link to the changelog: https://github.com/Indev450/SRB2Kart-Saturn/releases/tag/v8
+
+- Notably the "offline" / "local" ping delay system from Ring Racers is here. This will let me force a GLOBAL frame delay, essentially nerfing "host advantage". The default delay will be 4. Pray I do not alter it further.
+
+
+
+
+
 --- Changelog- Ver 2.5(b) ---
 
 - Saturn was updated to v7. Shitload of bugfixes and stability things in their changelog: https://github.com/Indev450/SRB2Kart-Saturn/releases/tag/v7.2
