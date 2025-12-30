@@ -1,11 +1,14 @@
---- Changelog- Ver 2.6 ---
+--- Changelog- Ver 2.7 ---
 
-- Saturn was updated to v8.3. Saturn Devs are cannibalizing Ring Racers' modern lua codes and I am here for it. Here's the link to the changelog: https://github.com/Indev450/SRB2Kart-Saturn/releases/tag/v8
+- Saturn was updated to v9.2. Saturn Devs are cannibalizing Ring Racers' modern lua codes and I am here for it. Here's the link to the changelog: https://github.com/Indev450/SRB2Kart-Saturn/releases
 
 - Notably the "offline" / "local" ping delay system from Ring Racers is here. This will let me force a GLOBAL frame delay, essentially nerfing "host advantage". The default delay will be 4. Pray I do not alter it further.
 
+- Fixed some addon load errors and probably introduced new ones. Whoops, fuck it we ball.
 
-
+- Added more map fixes by Cola
+- Added beta version of The ThunderDome map by Jora. Needs testing badly.
+- Added a map pack of Hat in Time maps. I bet they won't work right lmao.
 
 
 --- Changelog- Ver 2.5(b) ---
