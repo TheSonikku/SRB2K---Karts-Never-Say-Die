@@ -101,6 +101,7 @@ CP:     |     |RACE | Aerial Badlands
 CR:     |     |RACE | Garage Dash  
 CW:     |     |RACE | Kokiri Forest  
 CY:     |     |RACE | Classic Zora's Domain  
+D8:     |     |RACE | B A N A N A S M M M M
 DA:     |     |RACE | Plains of Passage  
 DB:     |     |RACE | Pridemoor Keep  
 DC:     |     |RACE | Lich Yard  
@@ -306,6 +307,8 @@ NC:     |     |RACE | Thermal Terminal
 NK:     |     |RACE | Sketchberry Spring  
 NL:     |     |RACE | DKR Jungle Falls  
 NM:     |     |RACE | Wandering Falls  
+NP:     |     |RACE | Wario Challenge
+NQ:     |     |RACE | Wario Deluxe 
 NS:     |     |RACE | Hyrule Town Market   
 NT:     |     |RACE | Lon Lon Ranch  
 NV:     |     |RACE | Zora's Domain  
@@ -342,6 +345,7 @@ PL:     |     |RACE | Fearnought Factory
 PM:     |     |RACE | Cyber Scramble  
 PN:     |     |RACE | Grit Pit  
 PO:     |     |RACE | Pentagon Paradise  
+PT:     |     |RACE | Deadbird Studio  
 QS:     |     |RACE | Donkey Kong Tower  
 QT:     |     |RACE | Puyo Puyo Gardens XL 
 QU:     |     |RACE | FZMV Icarus Circuit  
@@ -369,6 +373,7 @@ RK:     |     |RACE | Delfino Plaza
 RL:     |     |RACE | Picture City  
 RM:     |     |RACE | ChuChu Space Stadium 
 RN:     |     |RACE | Zandunia Beach  
+RT:     |     |RACE | Syntax Station  
 RY:     |     |RACE | Funky Factory  
 S0:     |     |RACE | Hydrocity  
 S1:     |     |RACE | Gemstone Garden  
@@ -395,6 +400,7 @@ SZ:     |     |RACE | Bowling Alley
 T6:     |     |RACE | MK64 Mario Raceway  
 T9:     |     |RACE | Arid Eclipse  
 TA:     |     |RACE | Dinosaur Canyon  
+TD:     |     |RACE | The Thunderdome  
 TE:     |     |RACE | Sunshine Coastline  
 TG:     |     |RACE | Angel Island  
 TH:     |     |RACE | Starlight  
