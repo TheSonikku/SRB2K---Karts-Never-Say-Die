@@ -9,6 +9,8 @@
 - Added more map fixes by Cola
 - Added beta version of The ThunderDome map by Jora. Needs testing badly.
 - Added a map pack of Hat in Time maps. I bet they won't work right lmao.
+- Added Splintered Steeple
+- Broke the Midnight Channels' minimaps.
 
 
 --- Changelog- Ver 2.5(b) ---
