@@ -696,5 +696,3 @@ ZV:     |     |BATL | The Foos-Room
 ZW:     |     |BATL | Hexagon Heat  
 ZX:     |     |BATL | Wind Fish Egg 
 ZY:     |     |BATL | MKDD Nintendo GAMECUBE 
-
-If you read this whole file, you're gay.
