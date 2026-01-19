@@ -58,8 +58,8 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 "Robotnik" Cup
 - ATO_StartSet map06 mapzo map40 mapu4 mapkx mapre mapmp
 
-"Cosmic Catastrophe" Cup
-- ATO_StartSet 
+"A Hat in Time" Cup
+- ATO_StartSet maptx
 
 "Sonic Advance 2" Cup*
 - ATO_StartSet mapgu mapg4 maplu mapg3 mapg7 maplu mapgx mapw9
@@ -67,3 +67,5 @@ Be sure to turn off FriendMod (fm_enable off) before doing any Grand Prixs!
 "Triforce" Cup
 - ATO_StartSet mapns mapnv mapnt mapcw
 
+"Planet Freedom" Cup
+- ATO_StartSet mapfq mapfr mapw1 maprt
